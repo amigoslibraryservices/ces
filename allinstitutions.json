@@ -1,0 +1,3530 @@
+[
+  {
+    "label": "Abilene Christian University Library",
+    "value": "Abilene Christian University Library"
+  },
+  {
+    "label": "Abilene Public Library",
+    "value": "Abilene Public Library"
+  },
+  {
+    "label": "Abilene Public Library - South Branch",
+    "value": "Abilene Public Library - South Branch"
+  },
+  {
+    "label": "Albuquerque - Bernalillo County Library System",
+    "value": "Albuquerque - Bernalillo County Library System"
+  },
+  {
+    "label": "Albuquerque Academy, Simms Library",
+    "value": "Albuquerque Academy, Simms Library"
+  },
+  {
+    "label": "Albuquerque/Bernalillo County Library System - Juan Tabo Branch Library",
+    "value": "Albuquerque/Bernalillo County Library System - Juan Tabo Branch Library"
+  },
+  {
+    "label": "Albuquerque/Bernalillo County Library System - Taylor Ranch Library",
+    "value": "Albuquerque/Bernalillo County Library System - Taylor Ranch Library"
+  },
+  {
+    "label": "Albuquerque/Bernalillo County Library System - Tony Hillerman Library",
+    "value": "Albuquerque/Bernalillo County Library System - Tony Hillerman Library"
+  },
+  {
+    "label": "Aledo Public Library",
+    "value": "Aledo Public Library"
+  },
+  {
+    "label": "Allen Public Library",
+    "value": "Allen Public Library"
+  },
+  {
+    "label": "Alvarado Public Library",
+    "value": "Alvarado Public Library"
+  },
+  {
+    "label": "Alvin Community College Library",
+    "value": "Alvin Community College Library"
+  },
+  {
+    "label": "Amarillo Public Library",
+    "value": "Amarillo Public Library"
+  },
+  {
+    "label": "Amberton University, Library Resource Center",
+    "value": "Amberton University, Library Resource Center"
+  },
+  {
+    "label": "Angelina College Library",
+    "value": "Angelina College Library"
+  },
+  {
+    "label": "Angelo State University Library",
+    "value": "Angelo State University Library"
+  },
+  {
+    "label": "Apache County Library District",
+    "value": "Apache County Library District"
+  },
+  {
+    "label": "Apache County Library District - Round Valley Public Library",
+    "value": "Apache County Library District - Round Valley Public Library"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library Booneville Public Library",
+    "value": "Arkansas River Valley Regional Library Booneville Public Library"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library Boyd T. & Mollie Gattis Logan County Library",
+    "value": "Arkansas River Valley Regional Library Boyd T. & Mollie Gattis Logan County Library"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library Charleston Public Library",
+    "value": "Arkansas River Valley Regional Library Charleston Public Library"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library Franklin County Library",
+    "value": "Arkansas River Valley Regional Library Franklin County Library"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library Johnson Public Library",
+    "value": "Arkansas River Valley Regional Library Johnson Public Library"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library System",
+    "value": "Arkansas River Valley Regional Library System"
+  },
+  {
+    "label": "Arkansas River Valley Regional Library Yell County Library",
+    "value": "Arkansas River Valley Regional Library Yell County Library"
+  },
+  {
+    "label": "Arkansas State Archives",
+    "value": "Arkansas State Archives"
+  },
+  {
+    "label": "Arkansas State Library (AKF)",
+    "value": "Arkansas State Library (AKF)"
+  },
+  {
+    "label": "Arkansas State Library (AST)",
+    "value": "Arkansas State Library (AST)"
+  },
+  {
+    "label": "Arkansas State Library Institution Processing Center",
+    "value": "Arkansas State Library Institution Processing Center"
+  },
+  {
+    "label": "Arkansas State University - Beebe, Abington Library",
+    "value": "Arkansas State University - Beebe, Abington Library"
+  },
+  {
+    "label": "Arkansas State University - Mountain Home",
+    "value": "Arkansas State University - Mountain Home"
+  },
+  {
+    "label": "Arkansas State University Mid-South",
+    "value": "Arkansas State University Mid-South"
+  },
+  {
+    "label": "Arkansas State University, Jonesboro",
+    "value": "Arkansas State University, Jonesboro"
+  },
+  {
+    "label": "Arkansas State University, Jonesboro - Delta Center for Economic Development",
+    "value": "Arkansas State University, Jonesboro - Delta Center for Economic Development"
+  },
+  {
+    "label": "Arkansas Supreme Court Library",
+    "value": "Arkansas Supreme Court Library"
+  },
+  {
+    "label": "Arkansas Tech University Library",
+    "value": "Arkansas Tech University Library"
+  },
+  {
+    "label": "Arlington Public Library",
+    "value": "Arlington Public Library"
+  },
+  {
+    "label": "Artesia Public Library",
+    "value": "Artesia Public Library"
+  },
+  {
+    "label": "Aubrey Area Library",
+    "value": "Aubrey Area Library"
+  },
+  {
+    "label": "Austin College",
+    "value": "Austin College"
+  },
+  {
+    "label": "Austin Community College - Highland Campus Library",
+    "value": "Austin Community College - Highland Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services",
+    "value": "Austin Community College Library Services"
+  },
+  {
+    "label": "Austin Community College Library Services - Cypress Creek Campus Library",
+    "value": "Austin Community College Library Services - Cypress Creek Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services - Eastview Campus Library",
+    "value": "Austin Community College Library Services - Eastview Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services - Northridge Campus Library",
+    "value": "Austin Community College Library Services - Northridge Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services - Pinnacle Campus Library",
+    "value": "Austin Community College Library Services - Pinnacle Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services - Rio Grande Campus Library",
+    "value": "Austin Community College Library Services - Rio Grande Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services - Riverside Campus Library",
+    "value": "Austin Community College Library Services - Riverside Campus Library"
+  },
+  {
+    "label": "Austin Community College Library Services - Round Rock Campus",
+    "value": "Austin Community College Library Services - Round Rock Campus"
+  },
+  {
+    "label": "Austin Presbyterian Theological Seminary",
+    "value": "Austin Presbyterian Theological Seminary"
+  },
+  {
+    "label": "Austin Public Library - Austin History Center",
+    "value": "Austin Public Library - Austin History Center"
+  },
+  {
+    "label": "Austin Public Library - Carver Branch",
+    "value": "Austin Public Library - Carver Branch"
+  },
+  {
+    "label": "Austin Public Library - Cepeda Branch Library",
+    "value": "Austin Public Library - Cepeda Branch Library"
+  },
+  {
+    "label": "Austin Public Library - Facility Services (J Gilllum)",
+    "value": "Austin Public Library - Facility Services (J Gilllum)"
+  },
+  {
+    "label": "Austin Public Library - Faulk Central Library",
+    "value": "Austin Public Library - Faulk Central Library"
+  },
+  {
+    "label": "Austin Public Library - Milwood Branch Library",
+    "value": "Austin Public Library - Milwood Branch Library"
+  },
+  {
+    "label": "Austin Public Library - Pleasant Hill Library",
+    "value": "Austin Public Library - Pleasant Hill Library"
+  },
+  {
+    "label": "Austin Public Library - Ruiz Branch",
+    "value": "Austin Public Library - Ruiz Branch"
+  },
+  {
+    "label": "Austin Public Library - Ruiz Branch Library",
+    "value": "Austin Public Library - Ruiz Branch Library"
+  },
+  {
+    "label": "Austin Public Library - St. John Branch Library",
+    "value": "Austin Public Library - St. John Branch Library"
+  },
+  {
+    "label": "Austin Public Library - Terrazas Branch",
+    "value": "Austin Public Library - Terrazas Branch"
+  },
+  {
+    "label": "Austin Public Library - Windsor Park Branch Library",
+    "value": "Austin Public Library - Windsor Park Branch Library"
+  },
+  {
+    "label": "Avila University, Hooley-Bundschu Library",
+    "value": "Avila University, Hooley-Bundschu Library"
+  },
+  {
+    "label": "Azle Memorial Library",
+    "value": "Azle Memorial Library"
+  },
+  {
+    "label": "Baker University, Collins Library",
+    "value": "Baker University, Collins Library"
+  },
+  {
+    "label": "Baptist Health Margaret Clark Gilbreath Memorial Library",
+    "value": "Baptist Health Margaret Clark Gilbreath Memorial Library"
+  },
+  {
+    "label": "Bay City Public Library",
+    "value": "Bay City Public Library"
+  },
+  {
+    "label": "Bay City Public Library - Matagorda Branch Library",
+    "value": "Bay City Public Library - Matagorda Branch Library"
+  },
+  {
+    "label": "Baylor Scott & White Memorial Hospital, Richard D. Haines Medical Library",
+    "value": "Baylor Scott & White Memorial Hospital, Richard D. Haines Medical Library"
+  },
+  {
+    "label": "Baylor University - School of Law Library",
+    "value": "Baylor University - School of Law Library"
+  },
+  {
+    "label": "Baylor University Libraries",
+    "value": "Baylor University Libraries"
+  },
+  {
+    "label": "Baylor University Libraries - Acquisitions",
+    "value": "Baylor University Libraries - Acquisitions"
+  },
+  {
+    "label": "Baylor University Libraries - Armstrong Browning Library",
+    "value": "Baylor University Libraries - Armstrong Browning Library"
+  },
+  {
+    "label": "Baylor University Libraries - Bibliographic Access",
+    "value": "Baylor University Libraries - Bibliographic Access"
+  },
+  {
+    "label": "Baylor University Libraries - Electronic Library",
+    "value": "Baylor University Libraries - Electronic Library"
+  },
+  {
+    "label": "Baylor University Libraries - Institute for Oral History",
+    "value": "Baylor University Libraries - Institute for Oral History"
+  },
+  {
+    "label": "Baylor University Libraries - Jesse H. Jones Library",
+    "value": "Baylor University Libraries - Jesse H. Jones Library"
+  },
+  {
+    "label": "Baylor University Libraries - Moody Memorial Library",
+    "value": "Baylor University Libraries - Moody Memorial Library"
+  },
+  {
+    "label": "Baylor University Libraries - Political Materials Collection",
+    "value": "Baylor University Libraries - Political Materials Collection"
+  },
+  {
+    "label": "Baylor University Libraries - Texas Collection",
+    "value": "Baylor University Libraries - Texas Collection"
+  },
+  {
+    "label": "Baylor University Louise Herrington School of Nursing",
+    "value": "Baylor University Louise Herrington School of Nursing"
+  },
+  {
+    "label": "Beaumont Public Library System",
+    "value": "Beaumont Public Library System"
+  },
+  {
+    "label": "Benbrook Library District",
+    "value": "Benbrook Library District"
+  },
+  {
+    "label": "Bentonville Public Library",
+    "value": "Bentonville Public Library"
+  },
+  {
+    "label": "Bermuda National Library",
+    "value": "Bermuda National Library"
+  },
+  {
+    "label": "Bethany College - Kansas Wallerstedt Library",
+    "value": "Bethany College - Kansas Wallerstedt Library"
+  },
+  {
+    "label": "Bethel College - North Newton",
+    "value": "Bethel College - North Newton"
+  },
+  {
+    "label": "Blinn College Library",
+    "value": "Blinn College Library"
+  },
+  {
+    "label": "Boonslick Regional Library",
+    "value": "Boonslick Regional Library"
+  },
+  {
+    "label": "Boyce Ditto Public Library",
+    "value": "Boyce Ditto Public Library"
+  },
+  {
+    "label": "Brazoria County Library System",
+    "value": "Brazoria County Library System"
+  },
+  {
+    "label": "Brazoria County Library System - Alvin Library",
+    "value": "Brazoria County Library System - Alvin Library"
+  },
+  {
+    "label": "Brazoria County Library System - Angleton Library",
+    "value": "Brazoria County Library System - Angleton Library"
+  },
+  {
+    "label": "Brazoria County Library System - Clute Library",
+    "value": "Brazoria County Library System - Clute Library"
+  },
+  {
+    "label": "Brazoria County Library System - Pearland Library",
+    "value": "Brazoria County Library System - Pearland Library"
+  },
+  {
+    "label": "Brazosport College Library",
+    "value": "Brazosport College Library"
+  },
+  {
+    "label": "Bridgeport Public Library",
+    "value": "Bridgeport Public Library"
+  },
+  {
+    "label": "Brownsville Public Library",
+    "value": "Brownsville Public Library"
+  },
+  {
+    "label": "Bryan Cave Leighton Paisner LLP",
+    "value": "Bryan Cave Leighton Paisner LLP"
+  },
+  {
+    "label": "Bryan-College Station Public Library System",
+    "value": "Bryan-College Station Public Library System"
+  },
+  {
+    "label": "Butt-Holdsworth Memorial Library",
+    "value": "Butt-Holdsworth Memorial Library"
+  },
+  {
+    "label": "Cameron Public Library",
+    "value": "Cameron Public Library"
+  },
+  {
+    "label": "Cameron University Library",
+    "value": "Cameron University Library"
+  },
+  {
+    "label": "Capital District Library Council (CDLC)",
+    "value": "Capital District Library Council (CDLC)"
+  },
+  {
+    "label": "Carl Albert State College, Joe E. White Library",
+    "value": "Carl Albert State College, Joe E. White Library"
+  },
+  {
+    "label": "Carroll & Madison Library System",
+    "value": "Carroll & Madison Library System"
+  },
+  {
+    "label": "Carroll & Madison Library System - Eureka Springs Carnegie Library",
+    "value": "Carroll & Madison Library System - Eureka Springs Carnegie Library"
+  },
+  {
+    "label": "Carroll & Madison Library System - Green Forest Public Library",
+    "value": "Carroll & Madison Library System - Green Forest Public Library"
+  },
+  {
+    "label": "Carroll & Madison Library System - Kingston Public Library",
+    "value": "Carroll & Madison Library System - Kingston Public Library"
+  },
+  {
+    "label": "Carroll & Madison Library System - Madison County Library",
+    "value": "Carroll & Madison Library System - Madison County Library"
+  },
+  {
+    "label": "Carroll & Madison Library System - St. Paul Public Library",
+    "value": "Carroll & Madison Library System - St. Paul Public Library"
+  },
+  {
+    "label": "Carrollton Public Library",
+    "value": "Carrollton Public Library"
+  },
+  {
+    "label": "Carrollton Public Library - MO",
+    "value": "Carrollton Public Library - MO"
+  },
+  {
+    "label": "Cass County Public Library",
+    "value": "Cass County Public Library"
+  },
+  {
+    "label": "Castroville Public Library",
+    "value": "Castroville Public Library"
+  },
+  {
+    "label": "Cedar Park Public Library",
+    "value": "Cedar Park Public Library"
+  },
+  {
+    "label": "Central Arizona College Library",
+    "value": "Central Arizona College Library"
+  },
+  {
+    "label": "Central Arizona College Library - Aravaipa Campus",
+    "value": "Central Arizona College Library - Aravaipa Campus"
+  },
+  {
+    "label": "Central Arkansas Library System - Aerospace Educational Center Branch Library",
+    "value": "Central Arkansas Library System - Aerospace Educational Center Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Brooks Branch Library",
+    "value": "Central Arkansas Library System - Brooks Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Dee Brown Branch Library",
+    "value": "Central Arkansas Library System - Dee Brown Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Fletcher Branch Library",
+    "value": "Central Arkansas Library System - Fletcher Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - History of the Neighborhood Resource Center Library",
+    "value": "Central Arkansas Library System - History of the Neighborhood Resource Center Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Maumelle Branch Library",
+    "value": "Central Arkansas Library System - Maumelle Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Max Milam Branch Library",
+    "value": "Central Arkansas Library System - Max Milam Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Nixon Branch Library",
+    "value": "Central Arkansas Library System - Nixon Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Sanders Branch Library",
+    "value": "Central Arkansas Library System - Sanders Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Terry Branch Library",
+    "value": "Central Arkansas Library System - Terry Branch Library"
+  },
+  {
+    "label": "Central Arkansas Library System - Williams Branch Library",
+    "value": "Central Arkansas Library System - Williams Branch Library"
+  },
+  {
+    "label": "Central Christian College of the Bible",
+    "value": "Central Christian College of the Bible"
+  },
+  {
+    "label": "Central Methodist University Smiley Memorial Library",
+    "value": "Central Methodist University Smiley Memorial Library"
+  },
+  {
+    "label": "Central New Mexico Community College Library",
+    "value": "Central New Mexico Community College Library"
+  },
+  {
+    "label": "Central Texas College Library",
+    "value": "Central Texas College Library"
+  },
+  {
+    "label": "Christian County Library",
+    "value": "Christian County Library"
+  },
+  {
+    "label": "Cisco College - Abilene Educational Center",
+    "value": "Cisco College - Abilene Educational Center"
+  },
+  {
+    "label": "Cisco College - Maner Memorial Library",
+    "value": "Cisco College - Maner Memorial Library"
+  },
+  {
+    "label": "City of Bellaire-Library",
+    "value": "City of Bellaire-Library"
+  },
+  {
+    "label": "City of League City - Helen Hall Library",
+    "value": "City of League City - Helen Hall Library"
+  },
+  {
+    "label": "Clovis Community College Library",
+    "value": "Clovis Community College Library"
+  },
+  {
+    "label": "Coastal Bend College Library",
+    "value": "Coastal Bend College Library"
+  },
+  {
+    "label": "Coastal Bend College Library - Pleasanton Campus",
+    "value": "Coastal Bend College Library - Pleasanton Campus"
+  },
+  {
+    "label": "Cochise College Library",
+    "value": "Cochise College Library"
+  },
+  {
+    "label": "Colby College",
+    "value": "Colby College"
+  },
+  {
+    "label": "College of the Mainland Library",
+    "value": "College of the Mainland Library"
+  },
+  {
+    "label": "College of the Ozarks - Lyons Memorial Library",
+    "value": "College of the Ozarks - Lyons Memorial Library"
+  },
+  {
+    "label": "Colleyville Public Library",
+    "value": "Colleyville Public Library"
+  },
+  {
+    "label": "Collin College Library",
+    "value": "Collin College Library"
+  },
+  {
+    "label": "Collin College Library - Accounts Payable",
+    "value": "Collin College Library - Accounts Payable"
+  },
+  {
+    "label": "Collin College Library - Central Park Campus Library",
+    "value": "Collin College Library - Central Park Campus Library"
+  },
+  {
+    "label": "Collin College Library - Preston Ridge Campus Library",
+    "value": "Collin College Library - Preston Ridge Campus Library"
+  },
+  {
+    "label": "Collin College Library - Wylie Campus",
+    "value": "Collin College Library - Wylie Campus"
+  },
+  {
+    "label": "Colorado State Library",
+    "value": "Colorado State Library"
+  },
+  {
+    "label": "Columbia College, Stafford Library",
+    "value": "Columbia College, Stafford Library"
+  },
+  {
+    "label": "Conception Abbey & Seminary Library",
+    "value": "Conception Abbey & Seminary Library"
+  },
+  {
+    "label": "Concordia University Texas",
+    "value": "Concordia University Texas"
+  },
+  {
+    "label": "Connors State College Library - Muskogee Branch",
+    "value": "Connors State College Library - Muskogee Branch"
+  },
+  {
+    "label": "Connors State College Library - Warner Campus",
+    "value": "Connors State College Library - Warner Campus"
+  },
+  {
+    "label": "Converse Public Library",
+    "value": "Converse Public Library"
+  },
+  {
+    "label": "Corpus Christi Public Library",
+    "value": "Corpus Christi Public Library"
+  },
+  {
+    "label": "Corsicana Public Library",
+    "value": "Corsicana Public Library"
+  },
+  {
+    "label": "Cossatot Community College",
+    "value": "Cossatot Community College"
+  },
+  {
+    "label": "Cottey College, Ross Library",
+    "value": "Cottey College, Ross Library"
+  },
+  {
+    "label": "Cozby Library and Community Commons",
+    "value": "Cozby Library and Community Commons"
+  },
+  {
+    "label": "Craig Elementary School Library",
+    "value": "Craig Elementary School Library"
+  },
+  {
+    "label": "Crowley Public Library",
+    "value": "Crowley Public Library"
+  },
+  {
+    "label": "Crowley Ridge Regional Library System HQ",
+    "value": "Crowley Ridge Regional Library System HQ"
+  },
+  {
+    "label": "Culver-Stockton College Library",
+    "value": "Culver-Stockton College Library"
+  },
+  {
+    "label": "Dallam-Hartley County Library",
+    "value": "Dallam-Hartley County Library"
+  },
+  {
+    "label": "Dallas Baptist University, Vance Memorial Library",
+    "value": "Dallas Baptist University, Vance Memorial Library"
+  },
+  {
+    "label": "Dallas Christian College, The Crawford Library",
+    "value": "Dallas Christian College, The Crawford Library"
+  },
+  {
+    "label": "Dallas College",
+    "value": "Dallas College"
+  },
+  {
+    "label": "Dallas College - Brookhaven College Library",
+    "value": "Dallas College - Brookhaven College Library"
+  },
+  {
+    "label": "Dallas College - Cedar Valley College Library",
+    "value": "Dallas College - Cedar Valley College Library"
+  },
+  {
+    "label": "Dallas College - Eastfield College Library",
+    "value": "Dallas College - Eastfield College Library"
+  },
+  {
+    "label": "Dallas College - El Centro Educational Resource Center",
+    "value": "Dallas College - El Centro Educational Resource Center"
+  },
+  {
+    "label": "Dallas College - Mountain View College Library",
+    "value": "Dallas College - Mountain View College Library"
+  },
+  {
+    "label": "Dallas College - North Lake College Library",
+    "value": "Dallas College - North Lake College Library"
+  },
+  {
+    "label": "Dallas College - Richland College Library",
+    "value": "Dallas College - Richland College Library"
+  },
+  {
+    "label": "Dallas County Library",
+    "value": "Dallas County Library"
+  },
+  {
+    "label": "Dallas International University",
+    "value": "Dallas International University"
+  },
+  {
+    "label": "Dallas Museum of Art",
+    "value": "Dallas Museum of Art"
+  },
+  {
+    "label": "Dallas Public Library",
+    "value": "Dallas Public Library"
+  },
+  {
+    "label": "Dallas Public Library - Arcadia Park Branch",
+    "value": "Dallas Public Library - Arcadia Park Branch"
+  },
+  {
+    "label": "Dallas Public Library - Casa View Branch",
+    "value": "Dallas Public Library - Casa View Branch"
+  },
+  {
+    "label": "Dallas Public Library - Dallas West Branch",
+    "value": "Dallas Public Library - Dallas West Branch"
+  },
+  {
+    "label": "Dallas Public Library - Forest Green Branch Library",
+    "value": "Dallas Public Library - Forest Green Branch Library"
+  },
+  {
+    "label": "Dallas Public Library - Fretz Park Branch",
+    "value": "Dallas Public Library - Fretz Park Branch"
+  },
+  {
+    "label": "Dallas Public Library - Grauwyler park Branch",
+    "value": "Dallas Public Library - Grauwyler park Branch"
+  },
+  {
+    "label": "Dallas Public Library - Hampton-Illinois Branch",
+    "value": "Dallas Public Library - Hampton-Illinois Branch"
+  },
+  {
+    "label": "Dallas Public Library - Highland Hills Branch",
+    "value": "Dallas Public Library - Highland Hills Branch"
+  },
+  {
+    "label": "Dallas Public Library - Kleberg-Rylie Branch Library",
+    "value": "Dallas Public Library - Kleberg-Rylie Branch Library"
+  },
+  {
+    "label": "Dallas Public Library - Lakewood Branch",
+    "value": "Dallas Public Library - Lakewood Branch"
+  },
+  {
+    "label": "Dallas Public Library - Lancaster-Kiest Branch Library",
+    "value": "Dallas Public Library - Lancaster-Kiest Branch Library"
+  },
+  {
+    "label": "Dallas Public Library - Martin L King, Jr. Branch",
+    "value": "Dallas Public Library - Martin L King, Jr. Branch"
+  },
+  {
+    "label": "Dallas Public Library - Mountain Creek Branch",
+    "value": "Dallas Public Library - Mountain Creek Branch"
+  },
+  {
+    "label": "Dallas Public Library - Polk-Wisdom Branch",
+    "value": "Dallas Public Library - Polk-Wisdom Branch"
+  },
+  {
+    "label": "Dallas Public Library - Skyline Branch Library",
+    "value": "Dallas Public Library - Skyline Branch Library"
+  },
+  {
+    "label": "Dallas Public Library - Timberglen Branch",
+    "value": "Dallas Public Library - Timberglen Branch"
+  },
+  {
+    "label": "Dallas Public Library - Walnut Hill Branch",
+    "value": "Dallas Public Library - Walnut Hill Branch"
+  },
+  {
+    "label": "Deer Park Public Library",
+    "value": "Deer Park Public Library"
+  },
+  {
+    "label": "Deerfield High School Library",
+    "value": "Deerfield High School Library"
+  },
+  {
+    "label": "Del Mar College, William F White Library",
+    "value": "Del Mar College, William F White Library"
+  },
+  {
+    "label": "Denton Public Library Central Branch",
+    "value": "Denton Public Library Central Branch"
+  },
+  {
+    "label": "Denton Public Library North Branch",
+    "value": "Denton Public Library North Branch"
+  },
+  {
+    "label": "Denton Public Library South Branch",
+    "value": "Denton Public Library South Branch"
+  },
+  {
+    "label": "Deschutes Public Library",
+    "value": "Deschutes Public Library"
+  },
+  {
+    "label": "Dickinson Public Library",
+    "value": "Dickinson Public Library"
+  },
+  {
+    "label": "Dine College Library",
+    "value": "Dine College Library"
+  },
+  {
+    "label": "Dine College Library - Crownpoint",
+    "value": "Dine College Library - Crownpoint"
+  },
+  {
+    "label": "Dine College Library - Shiprock",
+    "value": "Dine College Library - Shiprock"
+  },
+  {
+    "label": "Dona Ana Community College",
+    "value": "Dona Ana Community College"
+  },
+  {
+    "label": "Dona Ana Community College, Library Media Center - East Mesa Campus",
+    "value": "Dona Ana Community College, Library Media Center - East Mesa Campus"
+  },
+  {
+    "label": "Donna Public Library",
+    "value": "Donna Public Library"
+  },
+  {
+    "label": "Douglas County Public Library",
+    "value": "Douglas County Public Library"
+  },
+  {
+    "label": "Dr. Hector P. Garcia Memorial Library",
+    "value": "Dr. Hector P. Garcia Memorial Library"
+  },
+  {
+    "label": "Drury University, F. W. Olin Library",
+    "value": "Drury University, F. W. Olin Library"
+  },
+  {
+    "label": "Dunklin County Library",
+    "value": "Dunklin County Library"
+  },
+  {
+    "label": "Durango Public Library",
+    "value": "Durango Public Library"
+  },
+  {
+    "label": "Dustin Michael Sekula Memorial Library",
+    "value": "Dustin Michael Sekula Memorial Library"
+  },
+  {
+    "label": "East Arkansas Community College",
+    "value": "East Arkansas Community College"
+  },
+  {
+    "label": "East Central College Library Services",
+    "value": "East Central College Library Services"
+  },
+  {
+    "label": "East Central University Linscheid Library",
+    "value": "East Central University Linscheid Library"
+  },
+  {
+    "label": "East Texas A&M University",
+    "value": "East Texas A&M University"
+  },
+  {
+    "label": "East Texas Baptist University Library",
+    "value": "East Texas Baptist University Library"
+  },
+  {
+    "label": "Eastern Arizona College Alumni Library",
+    "value": "Eastern Arizona College Alumni Library"
+  },
+  {
+    "label": "Eastern Arizona College Alumni Library, Gila Pueblo Campus",
+    "value": "Eastern Arizona College Alumni Library, Gila Pueblo Campus"
+  },
+  {
+    "label": "Eastern Arizona College Alumni Library, Payson Campus",
+    "value": "Eastern Arizona College Alumni Library, Payson Campus"
+  },
+  {
+    "label": "Eastern New Mexico University - Roswell, Learning Resource Center",
+    "value": "Eastern New Mexico University - Roswell, Learning Resource Center"
+  },
+  {
+    "label": "Eastern New Mexico University Library",
+    "value": "Eastern New Mexico University Library"
+  },
+  {
+    "label": "Eastern New Mexico University Library - Ruidoso Branch Community College",
+    "value": "Eastern New Mexico University Library - Ruidoso Branch Community College"
+  },
+  {
+    "label": "Eastern Oklahoma Library System",
+    "value": "Eastern Oklahoma Library System"
+  },
+  {
+    "label": "Eastern Oklahoma State College Library",
+    "value": "Eastern Oklahoma State College Library"
+  },
+  {
+    "label": "Ector County Library",
+    "value": "Ector County Library"
+  },
+  {
+    "label": "El Paso Community College Library",
+    "value": "El Paso Community College Library"
+  },
+  {
+    "label": "El Paso Community College Library - Mission del Paso Campus",
+    "value": "El Paso Community College Library - Mission del Paso Campus"
+  },
+  {
+    "label": "El Paso Community College Library - Northwest Campus",
+    "value": "El Paso Community College Library - Northwest Campus"
+  },
+  {
+    "label": "El Paso Community College Library - Rio Grande Campus",
+    "value": "El Paso Community College Library - Rio Grande Campus"
+  },
+  {
+    "label": "El Paso Community College Library - Transmountain Campus",
+    "value": "El Paso Community College Library - Transmountain Campus"
+  },
+  {
+    "label": "El Paso Community College Library - Valle Verde Campus",
+    "value": "El Paso Community College Library - Valle Verde Campus"
+  },
+  {
+    "label": "Elsa Public Library",
+    "value": "Elsa Public Library"
+  },
+  {
+    "label": "Ennis Public Library",
+    "value": "Ennis Public Library"
+  },
+  {
+    "label": "Euless Public Library",
+    "value": "Euless Public Library"
+  },
+  {
+    "label": "Evanston Township High School Library",
+    "value": "Evanston Township High School Library"
+  },
+  {
+    "label": "ExxonMobil Central Library & Information Center",
+    "value": "ExxonMobil Central Library & Information Center"
+  },
+  {
+    "label": "Farmers Branch Manske Public Library",
+    "value": "Farmers Branch Manske Public Library"
+  },
+  {
+    "label": "Farmington Public Library",
+    "value": "Farmington Public Library"
+  },
+  {
+    "label": "Farmington Public Library",
+    "value": "Farmington Public Library"
+  },
+  {
+    "label": "Faulkner County Library",
+    "value": "Faulkner County Library"
+  },
+  {
+    "label": "Faulkner Van Buren Regional Library",
+    "value": "Faulkner Van Buren Regional Library"
+  },
+  {
+    "label": "Federal Reserve Bank of St. Louis, Research Library",
+    "value": "Federal Reserve Bank of St. Louis, Research Library"
+  },
+  {
+    "label": "Fern Ridge High School",
+    "value": "Fern Ridge High School"
+  },
+  {
+    "label": "Flower Mound Public Library",
+    "value": "Flower Mound Public Library"
+  },
+  {
+    "label": "Fontbonne University Library",
+    "value": "Fontbonne University Library"
+  },
+  {
+    "label": "Fort Bend County Libraries",
+    "value": "Fort Bend County Libraries"
+  },
+  {
+    "label": "Fort Bend County Libraries - Albert George Branch Library",
+    "value": "Fort Bend County Libraries - Albert George Branch Library"
+  },
+  {
+    "label": "Fort Bend County Libraries - First Colony Branch",
+    "value": "Fort Bend County Libraries - First Colony Branch"
+  },
+  {
+    "label": "Fort Bend County Libraries - Fulshear/Simonton Branch",
+    "value": "Fort Bend County Libraries - Fulshear/Simonton Branch"
+  },
+  {
+    "label": "Fort Bend County Libraries - Mamie George Branch Library",
+    "value": "Fort Bend County Libraries - Mamie George Branch Library"
+  },
+  {
+    "label": "Fort Bend County Libraries - Missouri City Branch Library",
+    "value": "Fort Bend County Libraries - Missouri City Branch Library"
+  },
+  {
+    "label": "Fort Smith Public Library",
+    "value": "Fort Smith Public Library"
+  },
+  {
+    "label": "Fort Smith Public Library - Windsor Drive Branch Library",
+    "value": "Fort Smith Public Library - Windsor Drive Branch Library"
+  },
+  {
+    "label": "Fort Worth Library - Butler Outreach Library Division (BOLD)",
+    "value": "Fort Worth Library - Butler Outreach Library Division (BOLD)"
+  },
+  {
+    "label": "Fort Worth Library - Diamond Hill/Jarvis Branch",
+    "value": "Fort Worth Library - Diamond Hill/Jarvis Branch"
+  },
+  {
+    "label": "Fort Worth Library - East Berry (EBY)",
+    "value": "Fort Worth Library - East Berry (EBY)"
+  },
+  {
+    "label": "Fort Worth Library - Meadowbrook Branch",
+    "value": "Fort Worth Library - Meadowbrook Branch"
+  },
+  {
+    "label": "Fort Worth Library - Northside Branch Library",
+    "value": "Fort Worth Library - Northside Branch Library"
+  },
+  {
+    "label": "Fort Worth Library - Southwest Regional (SWTR)",
+    "value": "Fort Worth Library - Southwest Regional (SWTR)"
+  },
+  {
+    "label": "Fort Worth Library - Summerglen Branch Library",
+    "value": "Fort Worth Library - Summerglen Branch Library"
+  },
+  {
+    "label": "Fort Worth Library - Wedgwood Branch",
+    "value": "Fort Worth Library - Wedgwood Branch"
+  },
+  {
+    "label": "Fort Worth Public Library",
+    "value": "Fort Worth Public Library"
+  },
+  {
+    "label": "Friends University, Edmund Stanley Library",
+    "value": "Friends University, Edmund Stanley Library"
+  },
+  {
+    "label": "Friendswood Public Library",
+    "value": "Friendswood Public Library"
+  },
+  {
+    "label": "Frisco Public Library",
+    "value": "Frisco Public Library"
+  },
+  {
+    "label": "Galveston College",
+    "value": "Galveston College"
+  },
+  {
+    "label": "Gatesville Public Library",
+    "value": "Gatesville Public Library"
+  },
+  {
+    "label": "Genevieve Miller Hitchcock Public Library",
+    "value": "Genevieve Miller Hitchcock Public Library"
+  },
+  {
+    "label": "Gentry County Library",
+    "value": "Gentry County Library"
+  },
+  {
+    "label": "Georgetown Public Library",
+    "value": "Georgetown Public Library"
+  },
+  {
+    "label": "Glen Rose Public Library",
+    "value": "Glen Rose Public Library"
+  },
+  {
+    "label": "Glenbrook High Schools District 225",
+    "value": "Glenbrook High Schools District 225"
+  },
+  {
+    "label": "Glenbrook North High School Library",
+    "value": "Glenbrook North High School Library"
+  },
+  {
+    "label": "Glenbrook South High School Library",
+    "value": "Glenbrook South High School Library"
+  },
+  {
+    "label": "Global University Library",
+    "value": "Global University Library"
+  },
+  {
+    "label": "Goldfarb School of Nursing at Barnes-Jewish College",
+    "value": "Goldfarb School of Nursing at Barnes-Jewish College"
+  },
+  {
+    "label": "Grand Canyon National Park Library",
+    "value": "Grand Canyon National Park Library"
+  },
+  {
+    "label": "Grand Canyon University",
+    "value": "Grand Canyon University"
+  },
+  {
+    "label": "Grand Prairie Public Library System",
+    "value": "Grand Prairie Public Library System"
+  },
+  {
+    "label": "Grand Prairie Public Library System Betty Warmack Branch Library",
+    "value": "Grand Prairie Public Library System Betty Warmack Branch Library"
+  },
+  {
+    "label": "Grapevine Public Library",
+    "value": "Grapevine Public Library"
+  },
+  {
+    "label": "Grayson College Library",
+    "value": "Grayson College Library"
+  },
+  {
+    "label": "Grundy County–Jewett Norris Library",
+    "value": "Grundy County–Jewett Norris Library"
+  },
+  {
+    "label": "Haltom City Public Library",
+    "value": "Haltom City Public Library"
+  },
+  {
+    "label": "Harding University, Brackett Library",
+    "value": "Harding University, Brackett Library"
+  },
+  {
+    "label": "Hardin-Simmons University - Richardson Library",
+    "value": "Hardin-Simmons University - Richardson Library"
+  },
+  {
+    "label": "Harlingen Public Library",
+    "value": "Harlingen Public Library"
+  },
+  {
+    "label": "Harper College Library",
+    "value": "Harper College Library"
+  },
+  {
+    "label": "Harrington Library Consortium",
+    "value": "Harrington Library Consortium"
+  },
+  {
+    "label": "Harris County Public Library",
+    "value": "Harris County Public Library"
+  },
+  {
+    "label": "Harris County Public Library - Baldwin Boettcher Branch",
+    "value": "Harris County Public Library - Baldwin Boettcher Branch"
+  },
+  {
+    "label": "Harris County Public Library - Barbara Bush Library",
+    "value": "Harris County Public Library - Barbara Bush Library"
+  },
+  {
+    "label": "Harris County Public Library - Clear Lake City-County Freeman Branch",
+    "value": "Harris County Public Library - Clear Lake City-County Freeman Branch"
+  },
+  {
+    "label": "Harris County Public Library - Cy-Fair",
+    "value": "Harris County Public Library - Cy-Fair"
+  },
+  {
+    "label": "Harris County Public Library - Evelyn Meador Branch",
+    "value": "Harris County Public Library - Evelyn Meador Branch"
+  },
+  {
+    "label": "Harris County Public Library - Kingwood Branch",
+    "value": "Harris County Public Library - Kingwood Branch"
+  },
+  {
+    "label": "Harris County Public Library - La Porte Branch",
+    "value": "Harris County Public Library - La Porte Branch"
+  },
+  {
+    "label": "Harris County Public LIbrary - Maud Smith Marks Branch",
+    "value": "Harris County Public LIbrary - Maud Smith Marks Branch"
+  },
+  {
+    "label": "Harris County Public Library - Octavia Fields Branch",
+    "value": "Harris County Public Library - Octavia Fields Branch"
+  },
+  {
+    "label": "Harris County Public Library - Spring Branch",
+    "value": "Harris County Public Library - Spring Branch"
+  },
+  {
+    "label": "Harris County Public Library - Tomball Branch",
+    "value": "Harris County Public Library - Tomball Branch"
+  },
+  {
+    "label": "Hawaii State Public Library System",
+    "value": "Hawaii State Public Library System"
+  },
+  {
+    "label": "Heartland Regional Library System",
+    "value": "Heartland Regional Library System"
+  },
+  {
+    "label": "Henderson State University, Huie Library",
+    "value": "Henderson State University, Huie Library"
+  },
+  {
+    "label": "Hendrix College, Bailey Library",
+    "value": "Hendrix College, Bailey Library"
+  },
+  {
+    "label": "Henry County Library",
+    "value": "Henry County Library"
+  },
+  {
+    "label": "Hesston College",
+    "value": "Hesston College"
+  },
+  {
+    "label": "Hewitt Public Library",
+    "value": "Hewitt Public Library"
+  },
+  {
+    "label": "Hidalgo Public Library",
+    "value": "Hidalgo Public Library"
+  },
+  {
+    "label": "Hill College Library",
+    "value": "Hill College Library"
+  },
+  {
+    "label": "Hockaday School Library",
+    "value": "Hockaday School Library"
+  },
+  {
+    "label": "Hondo Public Library",
+    "value": "Hondo Public Library"
+  },
+  {
+    "label": "Hood County Library",
+    "value": "Hood County Library"
+  },
+  {
+    "label": "Houston Academy of Medicine - Texas Medical Center Library",
+    "value": "Houston Academy of Medicine - Texas Medical Center Library"
+  },
+  {
+    "label": "Houston Christian University",
+    "value": "Houston Christian University"
+  },
+  {
+    "label": "Houston Community College Libraries",
+    "value": "Houston Community College Libraries"
+  },
+  {
+    "label": "Houston Community College Libraries - Central Library",
+    "value": "Houston Community College Libraries - Central Library"
+  },
+  {
+    "label": "Houston Community College Libraries - Northeast Codwell Library",
+    "value": "Houston Community College Libraries - Northeast Codwell Library"
+  },
+  {
+    "label": "Houston Community College Libraries - Stafford Center Library",
+    "value": "Houston Community College Libraries - Stafford Center Library"
+  },
+  {
+    "label": "Houston Public Library",
+    "value": "Houston Public Library"
+  },
+  {
+    "label": "Houston Public Library - Branch Services",
+    "value": "Houston Public Library - Branch Services"
+  },
+  {
+    "label": "Houston Public Library - Central Library and Metropolitan Research Center",
+    "value": "Houston Public Library - Central Library and Metropolitan Research Center"
+  },
+  {
+    "label": "Houston Public Library - Clayton Library",
+    "value": "Houston Public Library - Clayton Library"
+  },
+  {
+    "label": "Houston Public Library - Frank Branch Library",
+    "value": "Houston Public Library - Frank Branch Library"
+  },
+  {
+    "label": "Houston Public Library - Gregory School",
+    "value": "Houston Public Library - Gregory School"
+  },
+  {
+    "label": "Houston Public Library - Heights Neighborhood Library",
+    "value": "Houston Public Library - Heights Neighborhood Library"
+  },
+  {
+    "label": "Houston Public Library - Hillendahl Neighborhood Library",
+    "value": "Houston Public Library - Hillendahl Neighborhood Library"
+  },
+  {
+    "label": "Houston Public Library - Houston Metropolitan Research Center",
+    "value": "Houston Public Library - Houston Metropolitan Research Center"
+  },
+  {
+    "label": "Houston Public Library - Jungman Branch",
+    "value": "Houston Public Library - Jungman Branch"
+  },
+  {
+    "label": "Houston Public Library - Kendall Neighborhood Library",
+    "value": "Houston Public Library - Kendall Neighborhood Library"
+  },
+  {
+    "label": "Houston Public Library - Park Place Regional Branch Library",
+    "value": "Houston Public Library - Park Place Regional Branch Library"
+  },
+  {
+    "label": "Houston Public Library - Scenic Woods Regional Branch Library",
+    "value": "Houston Public Library - Scenic Woods Regional Branch Library"
+  },
+  {
+    "label": "Houston Public Library - Smith Neighborhood Library",
+    "value": "Houston Public Library - Smith Neighborhood Library"
+  },
+  {
+    "label": "Houston Public Library - Tuttle Neighborhood Library",
+    "value": "Houston Public Library - Tuttle Neighborhood Library"
+  },
+  {
+    "label": "Houston Public Library - Young Branch Library",
+    "value": "Houston Public Library - Young Branch Library"
+  },
+  {
+    "label": "Howard College Library",
+    "value": "Howard College Library"
+  },
+  {
+    "label": "Howard College Library - San Angelo",
+    "value": "Howard College Library - San Angelo"
+  },
+  {
+    "label": "Howard Payne University",
+    "value": "Howard Payne University"
+  },
+  {
+    "label": "Huntsville Public Library",
+    "value": "Huntsville Public Library"
+  },
+  {
+    "label": "Hurst Public Library",
+    "value": "Hurst Public Library"
+  },
+  {
+    "label": "Idaho Commission for Libraries",
+    "value": "Idaho Commission for Libraries"
+  },
+  {
+    "label": "Illinois Heartland Library System - Champaign",
+    "value": "Illinois Heartland Library System - Champaign"
+  },
+  {
+    "label": "Illinois Heartland Library System - Edwardsville",
+    "value": "Illinois Heartland Library System - Edwardsville"
+  },
+  {
+    "label": "Independence County Library",
+    "value": "Independence County Library"
+  },
+  {
+    "label": "Institute of American Indian Arts Library",
+    "value": "Institute of American Indian Arts Library"
+  },
+  {
+    "label": "Irving Public Library System",
+    "value": "Irving Public Library System"
+  },
+  {
+    "label": "Jacksonville Public Library",
+    "value": "Jacksonville Public Library"
+  },
+  {
+    "label": "Jasper Public Library",
+    "value": "Jasper Public Library"
+  },
+  {
+    "label": "Jefferson City School District",
+    "value": "Jefferson City School District"
+  },
+  {
+    "label": "Jefferson College Library",
+    "value": "Jefferson College Library"
+  },
+  {
+    "label": "Joe Barnhart Bee County Library",
+    "value": "Joe Barnhart Bee County Library"
+  },
+  {
+    "label": "John Brown University Library",
+    "value": "John Brown University Library"
+  },
+  {
+    "label": "Kansas City Public Library",
+    "value": "Kansas City Public Library"
+  },
+  {
+    "label": "Keller Public Library",
+    "value": "Keller Public Library"
+  },
+  {
+    "label": "Kenrick-Glennon Seminary Library",
+    "value": "Kenrick-Glennon Seminary Library"
+  },
+  {
+    "label": "Kilgore College",
+    "value": "Kilgore College"
+  },
+  {
+    "label": "Killeen Public Library",
+    "value": "Killeen Public Library"
+  },
+  {
+    "label": "Killeen Public Library -  Copper Mountain Branch Library",
+    "value": "Killeen Public Library -  Copper Mountain Branch Library"
+  },
+  {
+    "label": "Killeen Public Library System",
+    "value": "Killeen Public Library System"
+  },
+  {
+    "label": "Kimbell Art Museum Library",
+    "value": "Kimbell Art Museum Library"
+  },
+  {
+    "label": "Kinkaid School Libraries",
+    "value": "Kinkaid School Libraries"
+  },
+  {
+    "label": "Krum Public Library",
+    "value": "Krum Public Library"
+  },
+  {
+    "label": "La Joya Municipal Library",
+    "value": "La Joya Municipal Library"
+  },
+  {
+    "label": "La Marque Public Library",
+    "value": "La Marque Public Library"
+  },
+  {
+    "label": "Lake Dallas Public Library",
+    "value": "Lake Dallas Public Library"
+  },
+  {
+    "label": "Lamar State College - Orange Library",
+    "value": "Lamar State College - Orange Library"
+  },
+  {
+    "label": "Lamar State College - Port Arthur",
+    "value": "Lamar State College - Port Arthur"
+  },
+  {
+    "label": "Lamar University, Mary & John Gray Library",
+    "value": "Lamar University, Mary & John Gray Library"
+  },
+  {
+    "label": "Laredo Community College",
+    "value": "Laredo Community College"
+  },
+  {
+    "label": "Laredo Community College - Zaffirini Library",
+    "value": "Laredo Community College - Zaffirini Library"
+  },
+  {
+    "label": "Laredo Public Library",
+    "value": "Laredo Public Library"
+  },
+  {
+    "label": "Las Cruces Public Libraries",
+    "value": "Las Cruces Public Libraries"
+  },
+  {
+    "label": "Lawton Public Library",
+    "value": "Lawton Public Library"
+  },
+  {
+    "label": "Lee College Library",
+    "value": "Lee College Library"
+  },
+  {
+    "label": "Lee's Summit R-VII School District Library",
+    "value": "Lee's Summit R-VII School District Library"
+  },
+  {
+    "label": "Leon Valley Public Library",
+    "value": "Leon Valley Public Library"
+  },
+  {
+    "label": "LeTourneau University",
+    "value": "LeTourneau University"
+  },
+  {
+    "label": "LeTourneau University - Graduate & Professional Studies",
+    "value": "LeTourneau University - Graduate & Professional Studies"
+  },
+  {
+    "label": "LeTourneau University - Houston Educational Center",
+    "value": "LeTourneau University - Houston Educational Center"
+  },
+  {
+    "label": "Lewisville Public Library",
+    "value": "Lewisville Public Library"
+  },
+  {
+    "label": "Liberty Public Schools #53 Library",
+    "value": "Liberty Public Schools #53 Library"
+  },
+  {
+    "label": "Lincoln University, Inman E. Page Library",
+    "value": "Lincoln University, Inman E. Page Library"
+  },
+  {
+    "label": "Linda Hall Library",
+    "value": "Linda Hall Library"
+  },
+  {
+    "label": "Lindenwood University - Belleville Library",
+    "value": "Lindenwood University - Belleville Library"
+  },
+  {
+    "label": "Lindenwood University, Butler Library",
+    "value": "Lindenwood University, Butler Library"
+  },
+  {
+    "label": "Little Dixie Regional Libraries",
+    "value": "Little Dixie Regional Libraries"
+  },
+  {
+    "label": "Little Elm Public Library",
+    "value": "Little Elm Public Library"
+  },
+  {
+    "label": "Livingston County Library",
+    "value": "Livingston County Library"
+  },
+  {
+    "label": "Lockheed Martin Aeronautics Company - Research Library",
+    "value": "Lockheed Martin Aeronautics Company - Research Library"
+  },
+  {
+    "label": "Lockheed Martin Missiles and Fire Control Libraries",
+    "value": "Lockheed Martin Missiles and Fire Control Libraries"
+  },
+  {
+    "label": "Logan University",
+    "value": "Logan University"
+  },
+  {
+    "label": "Lone Star College",
+    "value": "Lone Star College"
+  },
+  {
+    "label": "Lone Star College - Kingwood Library",
+    "value": "Lone Star College - Kingwood Library"
+  },
+  {
+    "label": "Lone Star College - Montgomery Library",
+    "value": "Lone Star College - Montgomery Library"
+  },
+  {
+    "label": "Lone Star College - North Harris Library",
+    "value": "Lone Star College - North Harris Library"
+  },
+  {
+    "label": "Lone Star College - Tomball Library",
+    "value": "Lone Star College - Tomball Library"
+  },
+  {
+    "label": "Lone Star College System - CyFair Library",
+    "value": "Lone Star College System - CyFair Library"
+  },
+  {
+    "label": "Lone Star College System - University Park",
+    "value": "Lone Star College System - University Park"
+  },
+  {
+    "label": "Longview Public Library",
+    "value": "Longview Public Library"
+  },
+  {
+    "label": "Los Lunas Public Library",
+    "value": "Los Lunas Public Library"
+  },
+  {
+    "label": "Louisiana State University in Shreveport",
+    "value": "Louisiana State University in Shreveport"
+  },
+  {
+    "label": "Lovington Public Library",
+    "value": "Lovington Public Library"
+  },
+  {
+    "label": "Lubbock Christian University Library",
+    "value": "Lubbock Christian University Library"
+  },
+  {
+    "label": "Lubbock Public Library",
+    "value": "Lubbock Public Library"
+  },
+  {
+    "label": "Luna Community College",
+    "value": "Luna Community College"
+  },
+  {
+    "label": "Lunar and Planetary Institute Library",
+    "value": "Lunar and Planetary Institute Library"
+  },
+  {
+    "label": "Lyon College, Mabee-Simpson Library",
+    "value": "Lyon College, Mabee-Simpson Library"
+  },
+  {
+    "label": "Macon Public Library",
+    "value": "Macon Public Library"
+  },
+  {
+    "label": "Mae S. Bruce Library",
+    "value": "Mae S. Bruce Library"
+  },
+  {
+    "label": "Mammen Family Public Library",
+    "value": "Mammen Family Public Library"
+  },
+  {
+    "label": "Manhattan Christian College Library",
+    "value": "Manhattan Christian College Library"
+  },
+  {
+    "label": "Mansfield Public Library",
+    "value": "Mansfield Public Library"
+  },
+  {
+    "label": "Maricopa Community College District",
+    "value": "Maricopa Community College District"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Chandler Gilbert Community College",
+    "value": "Maricopa Community College District Libraries - Chandler Gilbert Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Estrella Mountain Community College",
+    "value": "Maricopa Community College District Libraries - Estrella Mountain Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - GateWay Community College",
+    "value": "Maricopa Community College District Libraries - GateWay Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Glendale Community College Library Media Center",
+    "value": "Maricopa Community College District Libraries - Glendale Community College Library Media Center"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Mesa Community College",
+    "value": "Maricopa Community College District Libraries - Mesa Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Paradise Valley Community College",
+    "value": "Maricopa Community College District Libraries - Paradise Valley Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Phoenix College",
+    "value": "Maricopa Community College District Libraries - Phoenix College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Rio Salado Community College",
+    "value": "Maricopa Community College District Libraries - Rio Salado Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - Scottsdale Community College",
+    "value": "Maricopa Community College District Libraries - Scottsdale Community College"
+  },
+  {
+    "label": "Maricopa Community College District Libraries - South Mountain Community College",
+    "value": "Maricopa Community College District Libraries - South Mountain Community College"
+  },
+  {
+    "label": "Marshall Public Library",
+    "value": "Marshall Public Library"
+  },
+  {
+    "label": "Mary Emma Tate Community Library",
+    "value": "Mary Emma Tate Community Library"
+  },
+  {
+    "label": "Mary Institute and St. Louis Country Day School",
+    "value": "Mary Institute and St. Louis Country Day School"
+  },
+  {
+    "label": "Maryville University Library",
+    "value": "Maryville University Library"
+  },
+  {
+    "label": "Mayor Joe V. Sanchez Public Library",
+    "value": "Mayor Joe V. Sanchez Public Library"
+  },
+  {
+    "label": "McAllen Public Library - Lark Branch",
+    "value": "McAllen Public Library - Lark Branch"
+  },
+  {
+    "label": "McAllen Public Library - Main Branch",
+    "value": "McAllen Public Library - Main Branch"
+  },
+  {
+    "label": "McAllen Public Library - Palm View Branch",
+    "value": "McAllen Public Library - Palm View Branch"
+  },
+  {
+    "label": "McArthur Public Library",
+    "value": "McArthur Public Library"
+  },
+  {
+    "label": "McDonald County Library",
+    "value": "McDonald County Library"
+  },
+  {
+    "label": "McKinney Public Library System",
+    "value": "McKinney Public Library System"
+  },
+  {
+    "label": "McLennan Community College Library",
+    "value": "McLennan Community College Library"
+  },
+  {
+    "label": "McMurry University - Jay-Rollins Library",
+    "value": "McMurry University - Jay-Rollins Library"
+  },
+  {
+    "label": "Mercy Hospital-St. Louis",
+    "value": "Mercy Hospital-St. Louis"
+  },
+  {
+    "label": "Mesquite Public Library",
+    "value": "Mesquite Public Library"
+  },
+  {
+    "label": "Mesquite Public Library - North Branch",
+    "value": "Mesquite Public Library - North Branch"
+  },
+  {
+    "label": "Metropolitan Library System",
+    "value": "Metropolitan Library System"
+  },
+  {
+    "label": "Metropolitan Library System - Capitol Hill Library",
+    "value": "Metropolitan Library System - Capitol Hill Library"
+  },
+  {
+    "label": "Mexico-Audrain County Library District",
+    "value": "Mexico-Audrain County Library District"
+  },
+  {
+    "label": "Mid-America Christian University",
+    "value": "Mid-America Christian University"
+  },
+  {
+    "label": "MidAmerica Nazarene University Library",
+    "value": "MidAmerica Nazarene University Library"
+  },
+  {
+    "label": "Mid-Continent Public Library",
+    "value": "Mid-Continent Public Library"
+  },
+  {
+    "label": "Midland College Library",
+    "value": "Midland College Library"
+  },
+  {
+    "label": "Midland College Library Advanced Technology Center",
+    "value": "Midland College Library Advanced Technology Center"
+  },
+  {
+    "label": "Midland County Public Library",
+    "value": "Midland County Public Library"
+  },
+  {
+    "label": "Midland County Public Library - Centennial Branch",
+    "value": "Midland County Public Library - Centennial Branch"
+  },
+  {
+    "label": "Midlothian Public Library",
+    "value": "Midlothian Public Library"
+  },
+  {
+    "label": "Midwestern Baptist Theological Seminary Library",
+    "value": "Midwestern Baptist Theological Seminary Library"
+  },
+  {
+    "label": "Midwestern State University, Moffett Library",
+    "value": "Midwestern State University, Moffett Library"
+  },
+  {
+    "label": "Mineral Area College C. H. Cozean Library",
+    "value": "Mineral Area College C. H. Cozean Library"
+  },
+  {
+    "label": "Mississippi County Library District",
+    "value": "Mississippi County Library District"
+  },
+  {
+    "label": "Missouri Baptist University Jung-Kellogg Learning Center",
+    "value": "Missouri Baptist University Jung-Kellogg Learning Center"
+  },
+  {
+    "label": "Missouri Botanical Garden Library",
+    "value": "Missouri Botanical Garden Library"
+  },
+  {
+    "label": "Missouri Historical Society Library & Research Center",
+    "value": "Missouri Historical Society Library & Research Center"
+  },
+  {
+    "label": "Missouri River Regional Library",
+    "value": "Missouri River Regional Library"
+  },
+  {
+    "label": "Missouri State Library",
+    "value": "Missouri State Library"
+  },
+  {
+    "label": "Missouri State University Duane G. Meyer Library",
+    "value": "Missouri State University Duane G. Meyer Library"
+  },
+  {
+    "label": "Missouri Supreme Court Library",
+    "value": "Missouri Supreme Court Library"
+  },
+  {
+    "label": "Missouri University of Science and Technology",
+    "value": "Missouri University of Science and Technology"
+  },
+  {
+    "label": "Missouri Valley College, Murrell Memorial Library",
+    "value": "Missouri Valley College, Murrell Memorial Library"
+  },
+  {
+    "label": "Mohave Community College Library",
+    "value": "Mohave Community College Library"
+  },
+  {
+    "label": "Mokena Community Public Library District",
+    "value": "Mokena Community Public Library District"
+  },
+  {
+    "label": "Montana State Library",
+    "value": "Montana State Library"
+  },
+  {
+    "label": "Montgomery City Public Library",
+    "value": "Montgomery City Public Library"
+  },
+  {
+    "label": "Montgomery County Memorial Library System",
+    "value": "Montgomery County Memorial Library System"
+  },
+  {
+    "label": "Montgomery County Memorial Library System - Charles B. Stewart - West Branch Library",
+    "value": "Montgomery County Memorial Library System - Charles B. Stewart - West Branch Library"
+  },
+  {
+    "label": "Montgomery County Memorial Library System - Malcolm Purvis Library",
+    "value": "Montgomery County Memorial Library System - Malcolm Purvis Library"
+  },
+  {
+    "label": "Montgomery County Memorial Library System - Mitchell Library",
+    "value": "Montgomery County Memorial Library System - Mitchell Library"
+  },
+  {
+    "label": "Moore Memorial Public Library",
+    "value": "Moore Memorial Public Library"
+  },
+  {
+    "label": "Murray State College Library",
+    "value": "Murray State College Library"
+  },
+  {
+    "label": "NASA Ames Research Center Library",
+    "value": "NASA Ames Research Center Library"
+  },
+  {
+    "label": "National American University",
+    "value": "National American University"
+  },
+  {
+    "label": "National University",
+    "value": "National University"
+  },
+  {
+    "label": "Navajo County Library District",
+    "value": "Navajo County Library District"
+  },
+  {
+    "label": "Navarro College",
+    "value": "Navarro College"
+  },
+  {
+    "label": "Nazarene Theological Seminary",
+    "value": "Nazarene Theological Seminary"
+  },
+  {
+    "label": "Nebraska Library Commission",
+    "value": "Nebraska Library Commission"
+  },
+  {
+    "label": "Nelson Atkins Museum of Art",
+    "value": "Nelson Atkins Museum of Art"
+  },
+  {
+    "label": "Nelson University",
+    "value": "Nelson University"
+  },
+  {
+    "label": "Neosho Newton County Library",
+    "value": "Neosho Newton County Library"
+  },
+  {
+    "label": "Nevada Public Library",
+    "value": "Nevada Public Library"
+  },
+  {
+    "label": "New Boston Public Library",
+    "value": "New Boston Public Library"
+  },
+  {
+    "label": "New Braunfels Public Library",
+    "value": "New Braunfels Public Library"
+  },
+  {
+    "label": "New Mexico Highlands University",
+    "value": "New Mexico Highlands University"
+  },
+  {
+    "label": "New Mexico Highlands University -  Rio Rancho Center",
+    "value": "New Mexico Highlands University -  Rio Rancho Center"
+  },
+  {
+    "label": "New Mexico Institute of Mining & Technology",
+    "value": "New Mexico Institute of Mining & Technology"
+  },
+  {
+    "label": "New Mexico Junior College Library",
+    "value": "New Mexico Junior College Library"
+  },
+  {
+    "label": "New Mexico Military Institute",
+    "value": "New Mexico Military Institute"
+  },
+  {
+    "label": "New Mexico Office of the State Engineer Library",
+    "value": "New Mexico Office of the State Engineer Library"
+  },
+  {
+    "label": "New Mexico State Library",
+    "value": "New Mexico State Library"
+  },
+  {
+    "label": "New Mexico State University Library",
+    "value": "New Mexico State University Library"
+  },
+  {
+    "label": "New Mexico State University-Alamogordo",
+    "value": "New Mexico State University-Alamogordo"
+  },
+  {
+    "label": "Newman University Library",
+    "value": "Newman University Library"
+  },
+  {
+    "label": "Nicholson Memorial Library - Walnut Creek Branch Library",
+    "value": "Nicholson Memorial Library - Walnut Creek Branch Library"
+  },
+  {
+    "label": "Nicholson Memorial Library System",
+    "value": "Nicholson Memorial Library System"
+  },
+  {
+    "label": "Niles North High School Library / Information Research Center",
+    "value": "Niles North High School Library / Information Research Center"
+  },
+  {
+    "label": "Niles TWP Dist 219 Library",
+    "value": "Niles TWP Dist 219 Library"
+  },
+  {
+    "label": "Niles West High School Library / Information Resource Center",
+    "value": "Niles West High School Library / Information Resource Center"
+  },
+  {
+    "label": "Nogales - Santa Cruz County Public Library",
+    "value": "Nogales - Santa Cruz County Public Library"
+  },
+  {
+    "label": "North Central Texas College Library",
+    "value": "North Central Texas College Library"
+  },
+  {
+    "label": "North Central Texas College Library - Corinth Campus",
+    "value": "North Central Texas College Library - Corinth Campus"
+  },
+  {
+    "label": "North Dakota State Library",
+    "value": "North Dakota State Library"
+  },
+  {
+    "label": "North Kansas City Public Library",
+    "value": "North Kansas City Public Library"
+  },
+  {
+    "label": "North Richland Hills Public Library",
+    "value": "North Richland Hills Public Library"
+  },
+  {
+    "label": "Northeast Kansas Library System",
+    "value": "Northeast Kansas Library System"
+  },
+  {
+    "label": "Northeast Lakeview College LRC",
+    "value": "Northeast Lakeview College LRC"
+  },
+  {
+    "label": "Northeast Texas Community College Library",
+    "value": "Northeast Texas Community College Library"
+  },
+  {
+    "label": "Northeastern State University - Broken Arrow Library",
+    "value": "Northeastern State University - Broken Arrow Library"
+  },
+  {
+    "label": "Northeastern State University - John Vaughan Library",
+    "value": "Northeastern State University - John Vaughan Library"
+  },
+  {
+    "label": "Northern Arizona University Library",
+    "value": "Northern Arizona University Library"
+  },
+  {
+    "label": "Northwest Arkansas Community College Library",
+    "value": "Northwest Arkansas Community College Library"
+  },
+  {
+    "label": "Northwest Missouri State University",
+    "value": "Northwest Missouri State University"
+  },
+  {
+    "label": "Northwest Vista College Library",
+    "value": "Northwest Vista College Library"
+  },
+  {
+    "label": "Northwestern Oklahoma State University",
+    "value": "Northwestern Oklahoma State University"
+  },
+  {
+    "label": "Northwestern Oklahoma State University - Enid Campus Library",
+    "value": "Northwestern Oklahoma State University - Enid Campus Library"
+  },
+  {
+    "label": "Oak Park and River Forest High School Library",
+    "value": "Oak Park and River Forest High School Library"
+  },
+  {
+    "label": "Oakwood School Library",
+    "value": "Oakwood School Library"
+  },
+  {
+    "label": "Oblate School of Theology Library",
+    "value": "Oblate School of Theology Library"
+  },
+  {
+    "label": "Oglethorpe University Philip Weltner Library",
+    "value": "Oglethorpe University Philip Weltner Library"
+  },
+  {
+    "label": "Oklahoma Baptist University",
+    "value": "Oklahoma Baptist University"
+  },
+  {
+    "label": "Oklahoma Christian University",
+    "value": "Oklahoma Christian University"
+  },
+  {
+    "label": "Oklahoma City University",
+    "value": "Oklahoma City University"
+  },
+  {
+    "label": "Oklahoma Department of Libraries",
+    "value": "Oklahoma Department of Libraries"
+  },
+  {
+    "label": "Oklahoma Historical Society Research Library",
+    "value": "Oklahoma Historical Society Research Library"
+  },
+  {
+    "label": "Oklahoma Panhandle State University",
+    "value": "Oklahoma Panhandle State University"
+  },
+  {
+    "label": "Oklahoma School of Science and Mathematics",
+    "value": "Oklahoma School of Science and Mathematics"
+  },
+  {
+    "label": "Oklahoma State University - Institute of Technology",
+    "value": "Oklahoma State University - Institute of Technology"
+  },
+  {
+    "label": "Oklahoma State University - Oklahoma City Library",
+    "value": "Oklahoma State University - Oklahoma City Library"
+  },
+  {
+    "label": "Oklahoma State University - Tulsa Library",
+    "value": "Oklahoma State University - Tulsa Library"
+  },
+  {
+    "label": "Oklahoma State University Library",
+    "value": "Oklahoma State University Library"
+  },
+  {
+    "label": "Oklahoma Wesleyan University Library",
+    "value": "Oklahoma Wesleyan University Library"
+  },
+  {
+    "label": "Oral Roberts University",
+    "value": "Oral Roberts University"
+  },
+  {
+    "label": "Ottawa University Gangwish Library",
+    "value": "Ottawa University Gangwish Library"
+  },
+  {
+    "label": "Ouachita Baptist University",
+    "value": "Ouachita Baptist University"
+  },
+  {
+    "label": "Our Lady of the Lake University Library",
+    "value": "Our Lady of the Lake University Library"
+  },
+  {
+    "label": "Ozark Regional Library",
+    "value": "Ozark Regional Library"
+  },
+  {
+    "label": "Ozarka College",
+    "value": "Ozarka College"
+  },
+  {
+    "label": "Palacios Library, Inc.",
+    "value": "Palacios Library, Inc."
+  },
+  {
+    "label": "Palestine Public Library",
+    "value": "Palestine Public Library"
+  },
+  {
+    "label": "Palo Alto College",
+    "value": "Palo Alto College"
+  },
+  {
+    "label": "Palo Alto University",
+    "value": "Palo Alto University"
+  },
+  {
+    "label": "Panola College - M.P. Baker Library",
+    "value": "Panola College - M.P. Baker Library"
+  },
+  {
+    "label": "Panola College - Marshall College Center",
+    "value": "Panola College - Marshall College Center"
+  },
+  {
+    "label": "Panola College - Shelby College Center Library",
+    "value": "Panola College - Shelby College Center Library"
+  },
+  {
+    "label": "Paris Junior College",
+    "value": "Paris Junior College"
+  },
+  {
+    "label": "Paris Public Library",
+    "value": "Paris Public Library"
+  },
+  {
+    "label": "Parker University",
+    "value": "Parker University"
+  },
+  {
+    "label": "Parkway C-2 School District Library Media Services",
+    "value": "Parkway C-2 School District Library Media Services"
+  },
+  {
+    "label": "Parkway Central High School",
+    "value": "Parkway Central High School"
+  },
+  {
+    "label": "Parkway North High School",
+    "value": "Parkway North High School"
+  },
+  {
+    "label": "Parkway South High School",
+    "value": "Parkway South High School"
+  },
+  {
+    "label": "Parkway West High School",
+    "value": "Parkway West High School"
+  },
+  {
+    "label": "Pasadena Public Library",
+    "value": "Pasadena Public Library"
+  },
+  {
+    "label": "Pasadena Public Library - Fairmont Branch Library",
+    "value": "Pasadena Public Library - Fairmont Branch Library"
+  },
+  {
+    "label": "Penitas Public Library",
+    "value": "Penitas Public Library"
+  },
+  {
+    "label": "Pharr Memorial Library",
+    "value": "Pharr Memorial Library"
+  },
+  {
+    "label": "Philander Smith College",
+    "value": "Philander Smith College"
+  },
+  {
+    "label": "Phillips Theological Seminary Library",
+    "value": "Phillips Theological Seminary Library"
+  },
+  {
+    "label": "Pioneer Library System",
+    "value": "Pioneer Library System"
+  },
+  {
+    "label": "Pioneer Library System - Norman Public Library",
+    "value": "Pioneer Library System - Norman Public Library"
+  },
+  {
+    "label": "Pioneer Library System - Shawnee Public Library",
+    "value": "Pioneer Library System - Shawnee Public Library"
+  },
+  {
+    "label": "Pioneer Memorial Library",
+    "value": "Pioneer Memorial Library"
+  },
+  {
+    "label": "Pittsburg State University",
+    "value": "Pittsburg State University"
+  },
+  {
+    "label": "Plano Public Library System",
+    "value": "Plano Public Library System"
+  },
+  {
+    "label": "Plano Public Library System - Christopher A. Parr Library",
+    "value": "Plano Public Library System - Christopher A. Parr Library"
+  },
+  {
+    "label": "Plano Public Library System - Gladys Harrington Library",
+    "value": "Plano Public Library System - Gladys Harrington Library"
+  },
+  {
+    "label": "Plano Public Library System - L. E. R. Schimelpfenig Public Library",
+    "value": "Plano Public Library System - L. E. R. Schimelpfenig Public Library"
+  },
+  {
+    "label": "Plano Public Library System - Maribelle M. Davis Library",
+    "value": "Plano Public Library System - Maribelle M. Davis Library"
+  },
+  {
+    "label": "Plano Public Library System - W.O. Haggard Library",
+    "value": "Plano Public Library System - W.O. Haggard Library"
+  },
+  {
+    "label": "Polk County Library",
+    "value": "Polk County Library"
+  },
+  {
+    "label": "Prairie View A&M University",
+    "value": "Prairie View A&M University"
+  },
+  {
+    "label": "Prairie View A&M University - Northwest Center",
+    "value": "Prairie View A&M University - Northwest Center"
+  },
+  {
+    "label": "Pulaski County Library",
+    "value": "Pulaski County Library"
+  },
+  {
+    "label": "Pulaski Technical College Library",
+    "value": "Pulaski Technical College Library"
+  },
+  {
+    "label": "Redlands Community College",
+    "value": "Redlands Community College"
+  },
+  {
+    "label": "Revs Institute",
+    "value": "Revs Institute"
+  },
+  {
+    "label": "Rice University, Fondren Library",
+    "value": "Rice University, Fondren Library"
+  },
+  {
+    "label": "Rich Mountain Community College",
+    "value": "Rich Mountain Community College"
+  },
+  {
+    "label": "Richardson Public Library",
+    "value": "Richardson Public Library"
+  },
+  {
+    "label": "Rita and Truett Smith Public Library",
+    "value": "Rita and Truett Smith Public Library"
+  },
+  {
+    "label": "Riter C. Hulsey Public Library",
+    "value": "Riter C. Hulsey Public Library"
+  },
+  {
+    "label": "Riverside Regional Library",
+    "value": "Riverside Regional Library"
+  },
+  {
+    "label": "Rockhurst University Greenlease Library",
+    "value": "Rockhurst University Greenlease Library"
+  },
+  {
+    "label": "Rockwall County Library",
+    "value": "Rockwall County Library"
+  },
+  {
+    "label": "Rogers Public Library",
+    "value": "Rogers Public Library"
+  },
+  {
+    "label": "Rogers State University",
+    "value": "Rogers State University"
+  },
+  {
+    "label": "Rolla Public Library",
+    "value": "Rolla Public Library"
+  },
+  {
+    "label": "Rolling Hills Consolidated Library",
+    "value": "Rolling Hills Consolidated Library"
+  },
+  {
+    "label": "Rose State College",
+    "value": "Rose State College"
+  },
+  {
+    "label": "Rosenberg Library",
+    "value": "Rosenberg Library"
+  },
+  {
+    "label": "Round Rock Public Library",
+    "value": "Round Rock Public Library"
+  },
+  {
+    "label": "Rowlett Public Library",
+    "value": "Rowlett Public Library"
+  },
+  {
+    "label": "Rusk County Library System",
+    "value": "Rusk County Library System"
+  },
+  {
+    "label": "Sachse Public Library",
+    "value": "Sachse Public Library"
+  },
+  {
+    "label": "Saint Edward's University",
+    "value": "Saint Edward's University"
+  },
+  {
+    "label": "Saint Mark's School of Texas",
+    "value": "Saint Mark's School of Texas"
+  },
+  {
+    "label": "Saint Mary's Seminary",
+    "value": "Saint Mary's Seminary"
+  },
+  {
+    "label": "Salem Public Library",
+    "value": "Salem Public Library"
+  },
+  {
+    "label": "Sam Houston State University",
+    "value": "Sam Houston State University"
+  },
+  {
+    "label": "Sam Houston State University - The Woodlands",
+    "value": "Sam Houston State University - The Woodlands"
+  },
+  {
+    "label": "San Antonio College Library",
+    "value": "San Antonio College Library"
+  },
+  {
+    "label": "San Antonio Public Library",
+    "value": "San Antonio Public Library"
+  },
+  {
+    "label": "San Antonio Public Library - Great Northwest Branch",
+    "value": "San Antonio Public Library - Great Northwest Branch"
+  },
+  {
+    "label": "San Antonio Public Library - McCreless Branch Library",
+    "value": "San Antonio Public Library - McCreless Branch Library"
+  },
+  {
+    "label": "San Antonio Public Library - Pan American Branch",
+    "value": "San Antonio Public Library - Pan American Branch"
+  },
+  {
+    "label": "San Antonio Public Library - Westfall Branch Library",
+    "value": "San Antonio Public Library - Westfall Branch Library"
+  },
+  {
+    "label": "San Jacinto College - Generation Park",
+    "value": "San Jacinto College - Generation Park"
+  },
+  {
+    "label": "San Jacinto College - Lee Davis Library",
+    "value": "San Jacinto College - Lee Davis Library"
+  },
+  {
+    "label": "San Jacinto College District Libraries - North Campus Dr. Edwin E. Lehr Library",
+    "value": "San Jacinto College District Libraries - North Campus Dr. Edwin E. Lehr Library"
+  },
+  {
+    "label": "San Jacinto College District Libraries - South Campus Parker Williams Library",
+    "value": "San Jacinto College District Libraries - South Campus Parker Williams Library"
+  },
+  {
+    "label": "San Juan College Library",
+    "value": "San Juan College Library"
+  },
+  {
+    "label": "San Juan Memorial Library",
+    "value": "San Juan Memorial Library"
+  },
+  {
+    "label": "Sanger Public Library",
+    "value": "Sanger Public Library"
+  },
+  {
+    "label": "Santa Fe Community College Library",
+    "value": "Santa Fe Community College Library"
+  },
+  {
+    "label": "Santa Fe Public Library",
+    "value": "Santa Fe Public Library"
+  },
+  {
+    "label": "Santa Fe Public Library - Oliver La Farge Branch Library",
+    "value": "Santa Fe Public Library - Oliver La Farge Branch Library"
+  },
+  {
+    "label": "Santa Fe Public Library - Southside Branch",
+    "value": "Santa Fe Public Library - Southside Branch"
+  },
+  {
+    "label": "Schertz Public Library",
+    "value": "Schertz Public Library"
+  },
+  {
+    "label": "Schreiner University, William M. Logan Library",
+    "value": "Schreiner University, William M. Logan Library"
+  },
+  {
+    "label": "Scotland County Memorial Library",
+    "value": "Scotland County Memorial Library"
+  },
+  {
+    "label": "Scott Sebastian Regional Library",
+    "value": "Scott Sebastian Regional Library"
+  },
+  {
+    "label": "Sedalia Public Library",
+    "value": "Sedalia Public Library"
+  },
+  {
+    "label": "Seguin Public Library",
+    "value": "Seguin Public Library"
+  },
+  {
+    "label": "Seminary of the Southwest, Harrison Library",
+    "value": "Seminary of the Southwest, Harrison Library"
+  },
+  {
+    "label": "Sergeant Fernando de la Rosa Memorial Library",
+    "value": "Sergeant Fernando de la Rosa Memorial Library"
+  },
+  {
+    "label": "Sherman Public Library",
+    "value": "Sherman Public Library"
+  },
+  {
+    "label": "Shook-Hardy & Bacon LLP Law Library",
+    "value": "Shook-Hardy & Bacon LLP Law Library"
+  },
+  {
+    "label": "Sikeston Public Library",
+    "value": "Sikeston Public Library"
+  },
+  {
+    "label": "South Central Kansas Library System (SCKLS)",
+    "value": "South Central Kansas Library System (SCKLS)"
+  },
+  {
+    "label": "South Plains College Library",
+    "value": "South Plains College Library"
+  },
+  {
+    "label": "South Plains College-Reese Center Library",
+    "value": "South Plains College-Reese Center Library"
+  },
+  {
+    "label": "South Texas College Libraries",
+    "value": "South Texas College Libraries"
+  },
+  {
+    "label": "South Texas College Libraries - Mid-Valley Campus",
+    "value": "South Texas College Libraries - Mid-Valley Campus"
+  },
+  {
+    "label": "South Texas College Libraries - Nursing Allied Health Center",
+    "value": "South Texas College Libraries - Nursing Allied Health Center"
+  },
+  {
+    "label": "South Texas College Libraries - Starr County Campus",
+    "value": "South Texas College Libraries - Starr County Campus"
+  },
+  {
+    "label": "South Texas College Libraries - Technology Center",
+    "value": "South Texas College Libraries - Technology Center"
+  },
+  {
+    "label": "South Texas College of Law Houston Library",
+    "value": "South Texas College of Law Houston Library"
+  },
+  {
+    "label": "Southeast Missouri State University",
+    "value": "Southeast Missouri State University"
+  },
+  {
+    "label": "Southeast New Mexico College",
+    "value": "Southeast New Mexico College"
+  },
+  {
+    "label": "Southeastern Oklahoma State University",
+    "value": "Southeastern Oklahoma State University"
+  },
+  {
+    "label": "Southeastern Oklahoma State University - McCurtain County Campus",
+    "value": "Southeastern Oklahoma State University - McCurtain County Campus"
+  },
+  {
+    "label": "Southern Arkansas University - Arkansas Archeological Survey",
+    "value": "Southern Arkansas University - Arkansas Archeological Survey"
+  },
+  {
+    "label": "Southern Arkansas University, Magale Library",
+    "value": "Southern Arkansas University, Magale Library"
+  },
+  {
+    "label": "Southern Methodist University - Bridwell Library",
+    "value": "Southern Methodist University - Bridwell Library"
+  },
+  {
+    "label": "Southern Methodist University - DeGolyer Library",
+    "value": "Southern Methodist University - DeGolyer Library"
+  },
+  {
+    "label": "Southern Methodist University - Fondren Library",
+    "value": "Southern Methodist University - Fondren Library"
+  },
+  {
+    "label": "Southern Methodist University - Hamon Arts Library",
+    "value": "Southern Methodist University - Hamon Arts Library"
+  },
+  {
+    "label": "Southern Methodist University - Norwick Center",
+    "value": "Southern Methodist University - Norwick Center"
+  },
+  {
+    "label": "Southern Nazarene University Library",
+    "value": "Southern Nazarene University Library"
+  },
+  {
+    "label": "Southern Prairie Library System",
+    "value": "Southern Prairie Library System"
+  },
+  {
+    "label": "Southwest Texas Junior College - Uvalde",
+    "value": "Southwest Texas Junior College - Uvalde"
+  },
+  {
+    "label": "Southwestern Adventist University",
+    "value": "Southwestern Adventist University"
+  },
+  {
+    "label": "Southwestern Baptist Theological Seminary",
+    "value": "Southwestern Baptist Theological Seminary"
+  },
+  {
+    "label": "Southwestern Baptist Theological Seminary - Houston campus",
+    "value": "Southwestern Baptist Theological Seminary - Houston campus"
+  },
+  {
+    "label": "Southwestern Oklahoma State University",
+    "value": "Southwestern Oklahoma State University"
+  },
+  {
+    "label": "Southwestern University",
+    "value": "Southwestern University"
+  },
+  {
+    "label": "Speer Memorial Library",
+    "value": "Speer Memorial Library"
+  },
+  {
+    "label": "Springtown Public Library",
+    "value": "Springtown Public Library"
+  },
+  {
+    "label": "St. Charles Public Library District",
+    "value": "St. Charles Public Library District"
+  },
+  {
+    "label": "St. Clair County Library",
+    "value": "St. Clair County Library"
+  },
+  {
+    "label": "St. John's College - Santa Fe Campus",
+    "value": "St. John's College - Santa Fe Campus"
+  },
+  {
+    "label": "St. Joseph Public Library",
+    "value": "St. Joseph Public Library"
+  },
+  {
+    "label": "St. Louis Community College - Cosand Center",
+    "value": "St. Louis Community College - Cosand Center"
+  },
+  {
+    "label": "St. Louis Community College - District Office",
+    "value": "St. Louis Community College - District Office"
+  },
+  {
+    "label": "St. Louis Community College - Florissant Valley",
+    "value": "St. Louis Community College - Florissant Valley"
+  },
+  {
+    "label": "St. Louis Community College - Meramec",
+    "value": "St. Louis Community College - Meramec"
+  },
+  {
+    "label": "St. Louis County Library",
+    "value": "St. Louis County Library"
+  },
+  {
+    "label": "St. Louis Priory School Library",
+    "value": "St. Louis Priory School Library"
+  },
+  {
+    "label": "St. Mary’s University, Louis J. Blume Library",
+    "value": "St. Mary’s University, Louis J. Blume Library"
+  },
+  {
+    "label": "St. Philip's College Library",
+    "value": "St. Philip's College Library"
+  },
+  {
+    "label": "St. Philip's College Library - Southwest Campus",
+    "value": "St. Philip's College Library - Southwest Campus"
+  },
+  {
+    "label": "State Fair Community College",
+    "value": "State Fair Community College"
+  },
+  {
+    "label": "State Library of Kansas",
+    "value": "State Library of Kansas"
+  },
+  {
+    "label": "State Library of Louisiana",
+    "value": "State Library of Louisiana"
+  },
+  {
+    "label": "State Library of Oregon",
+    "value": "State Library of Oregon"
+  },
+  {
+    "label": "Ste. Genevieve County Library",
+    "value": "Ste. Genevieve County Library"
+  },
+  {
+    "label": "Stephen F. Austin State University",
+    "value": "Stephen F. Austin State University"
+  },
+  {
+    "label": "Sterling College Mabee Library",
+    "value": "Sterling College Mabee Library"
+  },
+  {
+    "label": "Sterling Municipal Library",
+    "value": "Sterling Municipal Library"
+  },
+  {
+    "label": "Stone County Library",
+    "value": "Stone County Library"
+  },
+  {
+    "label": "Stowers Institute for Medical Research -  Library",
+    "value": "Stowers Institute for Medical Research -  Library"
+  },
+  {
+    "label": "Sul Ross State University",
+    "value": "Sul Ross State University"
+  },
+  {
+    "label": "Supreme Court Law Library",
+    "value": "Supreme Court Law Library"
+  },
+  {
+    "label": "Tarleton State University - Dick Smith Library",
+    "value": "Tarleton State University - Dick Smith Library"
+  },
+  {
+    "label": "Tarrant County College District Libraries",
+    "value": "Tarrant County College District Libraries"
+  },
+  {
+    "label": "Tarrant County College District Libraries - Northeast Campus Library",
+    "value": "Tarrant County College District Libraries - Northeast Campus Library"
+  },
+  {
+    "label": "Tarrant County College District Libraries - Northwest Campus Library",
+    "value": "Tarrant County College District Libraries - Northwest Campus Library"
+  },
+  {
+    "label": "Tarrant County College District Libraries - South Campus - Jenkins Garrett Library",
+    "value": "Tarrant County College District Libraries - South Campus - Jenkins Garrett Library"
+  },
+  {
+    "label": "Tarrant County College District Libraries - Southeast Campus",
+    "value": "Tarrant County College District Libraries - Southeast Campus"
+  },
+  {
+    "label": "TCS Education System",
+    "value": "TCS Education System"
+  },
+  {
+    "label": "Temple College, Hubert M. Dawson Library",
+    "value": "Temple College, Hubert M. Dawson Library"
+  },
+  {
+    "label": "Temple Public Library",
+    "value": "Temple Public Library"
+  },
+  {
+    "label": "Texarkana College, Palmer Memorial Library",
+    "value": "Texarkana College, Palmer Memorial Library"
+  },
+  {
+    "label": "Texarkana Public Library",
+    "value": "Texarkana Public Library"
+  },
+  {
+    "label": "Texas A&M and University of Texas Systems Joint Library Facility",
+    "value": "Texas A&M and University of Texas Systems Joint Library Facility"
+  },
+  {
+    "label": "Texas A&M International University",
+    "value": "Texas A&M International University"
+  },
+  {
+    "label": "Texas A&M University - Central Texas",
+    "value": "Texas A&M University - Central Texas"
+  },
+  {
+    "label": "Texas A&M University - Corpus Christi",
+    "value": "Texas A&M University - Corpus Christi"
+  },
+  {
+    "label": "Texas A&M University - Kingsville",
+    "value": "Texas A&M University - Kingsville"
+  },
+  {
+    "label": "Texas A&M University - San Antonio",
+    "value": "Texas A&M University - San Antonio"
+  },
+  {
+    "label": "Texas A&M University - Texarkana, John F. Moss Library",
+    "value": "Texas A&M University - Texarkana, John F. Moss Library"
+  },
+  {
+    "label": "Texas A&M University at Galveston",
+    "value": "Texas A&M University at Galveston"
+  },
+  {
+    "label": "Texas A&M University School of Law",
+    "value": "Texas A&M University School of Law"
+  },
+  {
+    "label": "Texas A&M University, Cushing Memorial Library",
+    "value": "Texas A&M University, Cushing Memorial Library"
+  },
+  {
+    "label": "Texas A&M University, Medical Sciences Library",
+    "value": "Texas A&M University, Medical Sciences Library"
+  },
+  {
+    "label": "Texas A&M University, Sterling C. Evans Library",
+    "value": "Texas A&M University, Sterling C. Evans Library"
+  },
+  {
+    "label": "Texas Chiropractic College",
+    "value": "Texas Chiropractic College"
+  },
+  {
+    "label": "Texas Christian University",
+    "value": "Texas Christian University"
+  },
+  {
+    "label": "Texas General Land Office",
+    "value": "Texas General Land Office"
+  },
+  {
+    "label": "Texas Lutheran University",
+    "value": "Texas Lutheran University"
+  },
+  {
+    "label": "Texas Southern University",
+    "value": "Texas Southern University"
+  },
+  {
+    "label": "Texas State Library and Archives Commission",
+    "value": "Texas State Library and Archives Commission"
+  },
+  {
+    "label": "Texas State University - Alkek Library",
+    "value": "Texas State University - Alkek Library"
+  },
+  {
+    "label": "Texas Tech University Library",
+    "value": "Texas Tech University Library"
+  },
+  {
+    "label": "Texas Tech University Library - Southwest Collection",
+    "value": "Texas Tech University Library - Southwest Collection"
+  },
+  {
+    "label": "Texas Tech University Library, The Vietnam Archive",
+    "value": "Texas Tech University Library, The Vietnam Archive"
+  },
+  {
+    "label": "Texas Tech University, School of Law Library",
+    "value": "Texas Tech University, School of Law Library"
+  },
+  {
+    "label": "Texas Wesleyan University",
+    "value": "Texas Wesleyan University"
+  },
+  {
+    "label": "Texas Woman's University",
+    "value": "Texas Woman's University"
+  },
+  {
+    "label": "Texas Woman's University  -  Parkland Health Sciences Library",
+    "value": "Texas Woman's University  -  Parkland Health Sciences Library"
+  },
+  {
+    "label": "Texas Woman's University -  Institute of Health Sciences Houston Library",
+    "value": "Texas Woman's University -  Institute of Health Sciences Houston Library"
+  },
+  {
+    "label": "Texas Woman's University -  Presbyterian Health Sciences Library",
+    "value": "Texas Woman's University -  Presbyterian Health Sciences Library"
+  },
+  {
+    "label": "Texas Woman's University - Southwestern Health Sciences Library",
+    "value": "Texas Woman's University - Southwestern Health Sciences Library"
+  },
+  {
+    "label": "Texas Woman's University - T. Boone Pickens Institute of Health Sciences - Dallas Center",
+    "value": "Texas Woman's University - T. Boone Pickens Institute of Health Sciences - Dallas Center"
+  },
+  {
+    "label": "Texas Woman's University, School of Library & Information Studies",
+    "value": "Texas Woman's University, School of Library & Information Studies"
+  },
+  {
+    "label": "The Corning Museum of Glass/Rakow Research Library",
+    "value": "The Corning Museum of Glass/Rakow Research Library"
+  },
+  {
+    "label": "The Menil Collection Library",
+    "value": "The Menil Collection Library"
+  },
+  {
+    "label": "The Museum of Fine Arts, Houston",
+    "value": "The Museum of Fine Arts, Houston"
+  },
+  {
+    "label": "The University of Tulsa, McFarlin Library",
+    "value": "The University of Tulsa, McFarlin Library"
+  },
+  {
+    "label": "Thompson Coburn LLP Library",
+    "value": "Thompson Coburn LLP Library"
+  },
+  {
+    "label": "Three Rivers College",
+    "value": "Three Rivers College"
+  },
+  {
+    "label": "Thunderbird School of Global Management",
+    "value": "Thunderbird School of Global Management"
+  },
+  {
+    "label": "Tom Green County Library System",
+    "value": "Tom Green County Library System"
+  },
+  {
+    "label": "Tom Green County Library System - North Angelo Branch",
+    "value": "Tom Green County Library System - North Angelo Branch"
+  },
+  {
+    "label": "Township High School District 113 Library",
+    "value": "Township High School District 113 Library"
+  },
+  {
+    "label": "Trinity Christian Academy Libraries",
+    "value": "Trinity Christian Academy Libraries"
+  },
+  {
+    "label": "Trinity University - Standing Orders and Subscriptions Department",
+    "value": "Trinity University - Standing Orders and Subscriptions Department"
+  },
+  {
+    "label": "Trinity University, Coates Library",
+    "value": "Trinity University, Coates Library"
+  },
+  {
+    "label": "Trinity Valley Community College Libraries",
+    "value": "Trinity Valley Community College Libraries"
+  },
+  {
+    "label": "Trinity Valley Community College Libraries - Terrell Campus LRC",
+    "value": "Trinity Valley Community College Libraries - Terrell Campus LRC"
+  },
+  {
+    "label": "Truman State University, Pickler Memorial Library",
+    "value": "Truman State University, Pickler Memorial Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Bixby Library",
+    "value": "Tulsa City-County Library - Bixby Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Central Library",
+    "value": "Tulsa City-County Library - Central Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Helmerich Library",
+    "value": "Tulsa City-County Library - Helmerich Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Jenks Branch",
+    "value": "Tulsa City-County Library - Jenks Branch"
+  },
+  {
+    "label": "Tulsa City-County Library - Nathan Hale Library",
+    "value": "Tulsa City-County Library - Nathan Hale Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Owasso Library",
+    "value": "Tulsa City-County Library - Owasso Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Page Library",
+    "value": "Tulsa City-County Library - Page Library"
+  },
+  {
+    "label": "Tulsa City-County Library - Schusterman-Benson Library",
+    "value": "Tulsa City-County Library - Schusterman-Benson Library"
+  },
+  {
+    "label": "Tulsa City-County Library - South Broken Arrow Library",
+    "value": "Tulsa City-County Library - South Broken Arrow Library"
+  },
+  {
+    "label": "Tulsa Community College -  Library",
+    "value": "Tulsa Community College -  Library"
+  },
+  {
+    "label": "Tulsa Community College, Learning Resources Center - Metro Campus",
+    "value": "Tulsa Community College, Learning Resources Center - Metro Campus"
+  },
+  {
+    "label": "Tulsa Community College, Learning Resources Center - West Campus",
+    "value": "Tulsa Community College, Learning Resources Center - West Campus"
+  },
+  {
+    "label": "Tye Preston Memorial Library",
+    "value": "Tye Preston Memorial Library"
+  },
+  {
+    "label": "Tyler Junior College - Vaughn Library",
+    "value": "Tyler Junior College - Vaughn Library"
+  },
+  {
+    "label": "Tyler Public Library",
+    "value": "Tyler Public Library"
+  },
+  {
+    "label": "United States Holocaust Memorial Museum",
+    "value": "United States Holocaust Memorial Museum"
+  },
+  {
+    "label": "University of Arizona -  School of Information",
+    "value": "University of Arizona -  School of Information"
+  },
+  {
+    "label": "University of Arizona Libraries",
+    "value": "University of Arizona Libraries"
+  },
+  {
+    "label": "University of Arizona Poetry Center Library",
+    "value": "University of Arizona Poetry Center Library"
+  },
+  {
+    "label": "University of Arizona, Health Science Center Library",
+    "value": "University of Arizona, Health Science Center Library"
+  },
+  {
+    "label": "University of Arkansas at Fort Smith, Boreham Library",
+    "value": "University of Arkansas at Fort Smith, Boreham Library"
+  },
+  {
+    "label": "University of Arkansas at Hope-Texarkana Library",
+    "value": "University of Arkansas at Hope-Texarkana Library"
+  },
+  {
+    "label": "University of Arkansas at Little Rock Bowen School of Law Library",
+    "value": "University of Arkansas at Little Rock Bowen School of Law Library"
+  },
+  {
+    "label": "University of Arkansas at Little Rock, Ottenheimer Library",
+    "value": "University of Arkansas at Little Rock, Ottenheimer Library"
+  },
+  {
+    "label": "University of Arkansas at Monticello Library",
+    "value": "University of Arkansas at Monticello Library"
+  },
+  {
+    "label": "University of Arkansas Community College at Morrilton Library",
+    "value": "University of Arkansas Community College at Morrilton Library"
+  },
+  {
+    "label": "University of Arkansas for Medical Sciences Library",
+    "value": "University of Arkansas for Medical Sciences Library"
+  },
+  {
+    "label": "University of Central Arkansas, Torreyson Library",
+    "value": "University of Central Arkansas, Torreyson Library"
+  },
+  {
+    "label": "University of Central Missouri James C. Kirkpatrick Library",
+    "value": "University of Central Missouri James C. Kirkpatrick Library"
+  },
+  {
+    "label": "University of Central Oklahoma Library",
+    "value": "University of Central Oklahoma Library"
+  },
+  {
+    "label": "University of Dallas, Cowan-Blakley Memorial Library",
+    "value": "University of Dallas, Cowan-Blakley Memorial Library"
+  },
+  {
+    "label": "University of Health Sciences and Pharmacy in St. Louis",
+    "value": "University of Health Sciences and Pharmacy in St. Louis"
+  },
+  {
+    "label": "University of Houston - Clear Lake - Pearland Campus",
+    "value": "University of Houston - Clear Lake - Pearland Campus"
+  },
+  {
+    "label": "University of Houston - Clear Lake Office of Research Administration",
+    "value": "University of Houston - Clear Lake Office of Research Administration"
+  },
+  {
+    "label": "University of Houston - Clear Lake, Alfred R. Neumann Library",
+    "value": "University of Houston - Clear Lake, Alfred R. Neumann Library"
+  },
+  {
+    "label": "University of Houston - Downtown, W.I. Dykes Library",
+    "value": "University of Houston - Downtown, W.I. Dykes Library"
+  },
+  {
+    "label": "University of Houston - University Libraries",
+    "value": "University of Houston - University Libraries"
+  },
+  {
+    "label": "University of Houston System at Katy",
+    "value": "University of Houston System at Katy"
+  },
+  {
+    "label": "University of Houston, O'Quinn Law Library",
+    "value": "University of Houston, O'Quinn Law Library"
+  },
+  {
+    "label": "University of Houston-Victoria Library",
+    "value": "University of Houston-Victoria Library"
+  },
+  {
+    "label": "University of Mary Hardin-Baylor, Townsend Memorial Library",
+    "value": "University of Mary Hardin-Baylor, Townsend Memorial Library"
+  },
+  {
+    "label": "University of Missouri - Columbia Elmer Ellis Library",
+    "value": "University of Missouri - Columbia Elmer Ellis Library"
+  },
+  {
+    "label": "University of Missouri – Columbia Health Sciences J. Otto Lottes Health Sciences Library",
+    "value": "University of Missouri – Columbia Health Sciences J. Otto Lottes Health Sciences Library"
+  },
+  {
+    "label": "University of Missouri – Columbia Law School Law Library",
+    "value": "University of Missouri – Columbia Law School Law Library"
+  },
+  {
+    "label": "University of Missouri - Columbia, School of Information Science & Learning Technologies",
+    "value": "University of Missouri - Columbia, School of Information Science & Learning Technologies"
+  },
+  {
+    "label": "University of Missouri – Kansas City Health Sciences Health Sciences Library",
+    "value": "University of Missouri – Kansas City Health Sciences Health Sciences Library"
+  },
+  {
+    "label": "University of Missouri – Kansas City Law School, Leon E. Bloch Law Library",
+    "value": "University of Missouri – Kansas City Law School, Leon E. Bloch Law Library"
+  },
+  {
+    "label": "University of Missouri – Kansas City University Libraries",
+    "value": "University of Missouri – Kansas City University Libraries"
+  },
+  {
+    "label": "University of Missouri – St. Louis, Thomas Jefferson Library",
+    "value": "University of Missouri – St. Louis, Thomas Jefferson Library"
+  },
+  {
+    "label": "University of Missouri Systems Office",
+    "value": "University of Missouri Systems Office"
+  },
+  {
+    "label": "University of New Mexico",
+    "value": "University of New Mexico"
+  },
+  {
+    "label": "University of New Mexico - Centennial Science and Engineering Library",
+    "value": "University of New Mexico - Centennial Science and Engineering Library"
+  },
+  {
+    "label": "University of New Mexico - Center for Development & Disability",
+    "value": "University of New Mexico - Center for Development & Disability"
+  },
+  {
+    "label": "University of New Mexico - Center for Southwest Research",
+    "value": "University of New Mexico - Center for Southwest Research"
+  },
+  {
+    "label": "University of New Mexico - Fine Arts Library",
+    "value": "University of New Mexico - Fine Arts Library"
+  },
+  {
+    "label": "University of New Mexico - Parish Memorial Library",
+    "value": "University of New Mexico - Parish Memorial Library"
+  },
+  {
+    "label": "University of New Mexico - Valencia Campus Library",
+    "value": "University of New Mexico - Valencia Campus Library"
+  },
+  {
+    "label": "University of New Mexico Gallup, Zollinger Library",
+    "value": "University of New Mexico Gallup, Zollinger Library"
+  },
+  {
+    "label": "University of New Mexico, Health Sciences Library and Informatics Center",
+    "value": "University of New Mexico, Health Sciences Library and Informatics Center"
+  },
+  {
+    "label": "University of New Mexico, Law Library",
+    "value": "University of New Mexico, Law Library"
+  },
+  {
+    "label": "University of North Texas at Dallas Library",
+    "value": "University of North Texas at Dallas Library"
+  },
+  {
+    "label": "University of North Texas, Discovery Park Library",
+    "value": "University of North Texas, Discovery Park Library"
+  },
+  {
+    "label": "University of North Texas, Health Science Center",
+    "value": "University of North Texas, Health Science Center"
+  },
+  {
+    "label": "University of North Texas, University Libraries",
+    "value": "University of North Texas, University Libraries"
+  },
+  {
+    "label": "University of Oklahoma - Youngblood Energy Library",
+    "value": "University of Oklahoma - Youngblood Energy Library"
+  },
+  {
+    "label": "University of Oklahoma, Bizzell Memorial Library",
+    "value": "University of Oklahoma, Bizzell Memorial Library"
+  },
+  {
+    "label": "University of Saint Thomas, Doherty Library",
+    "value": "University of Saint Thomas, Doherty Library"
+  },
+  {
+    "label": "University of Science and Arts of Oklahoma, Nash Library",
+    "value": "University of Science and Arts of Oklahoma, Nash Library"
+  },
+  {
+    "label": "University of Texas - Rio Grande Valley",
+    "value": "University of Texas - Rio Grande Valley"
+  },
+  {
+    "label": "University of Texas at Arlington Library",
+    "value": "University of Texas at Arlington Library"
+  },
+  {
+    "label": "University of Texas at Austin, Harry Ransom Humanities Research Center Library",
+    "value": "University of Texas at Austin, Harry Ransom Humanities Research Center Library"
+  },
+  {
+    "label": "University of Texas at Austin, University of Texas Libraries - Dolph Briscoe Center for American History",
+    "value": "University of Texas at Austin, University of Texas Libraries - Dolph Briscoe Center for American History"
+  },
+  {
+    "label": "University of Texas at Austin, University of Texas Libraries - Texas Archeological Research Lab",
+    "value": "University of Texas at Austin, University of Texas Libraries - Texas Archeological Research Lab"
+  },
+  {
+    "label": "University of Texas at Austin, University of Texas Libraries - The John M. Kuehne Physics Mathematics Astronomy Library",
+    "value": "University of Texas at Austin, University of Texas Libraries - The John M. Kuehne Physics Mathematics Astronomy Library"
+  },
+  {
+    "label": "University of Texas at Dallas, McDermott Library",
+    "value": "University of Texas at Dallas, McDermott Library"
+  },
+  {
+    "label": "University of Texas at El Paso Library",
+    "value": "University of Texas at El Paso Library"
+  },
+  {
+    "label": "University of Texas at San Antonio",
+    "value": "University of Texas at San Antonio"
+  },
+  {
+    "label": "University of Texas at San Antonio - Library Institute of Texan Cultures",
+    "value": "University of Texas at San Antonio - Library Institute of Texan Cultures"
+  },
+  {
+    "label": "University of Texas at Tyler Library",
+    "value": "University of Texas at Tyler Library"
+  },
+  {
+    "label": "University of Texas Health Science Center at San Antonio Library",
+    "value": "University of Texas Health Science Center at San Antonio Library"
+  },
+  {
+    "label": "University of Texas Health Science Center at San Antonio Library - Regional Academic Health Center Medical Library",
+    "value": "University of Texas Health Science Center at San Antonio Library - Regional Academic Health Center Medical Library"
+  },
+  {
+    "label": "University of Texas Health Science Center at Tyler",
+    "value": "University of Texas Health Science Center at Tyler"
+  },
+  {
+    "label": "University of Texas Libraries, The University of Texas at Austin",
+    "value": "University of Texas Libraries, The University of Texas at Austin"
+  },
+  {
+    "label": "University of Texas Marine Science Library",
+    "value": "University of Texas Marine Science Library"
+  },
+  {
+    "label": "University of Texas of the Permian Basin",
+    "value": "University of Texas of the Permian Basin"
+  },
+  {
+    "label": "University of Texas Rio Grande Valley - Brownsville",
+    "value": "University of Texas Rio Grande Valley - Brownsville"
+  },
+  {
+    "label": "University of Texas Southwestern Medical Center at Dallas Library",
+    "value": "University of Texas Southwestern Medical Center at Dallas Library"
+  },
+  {
+    "label": "University of Texas Southwestern Medical Center at Dallas Library - North Campus Library",
+    "value": "University of Texas Southwestern Medical Center at Dallas Library - North Campus Library"
+  },
+  {
+    "label": "University of Texas System TeleCampus Digital Library",
+    "value": "University of Texas System TeleCampus Digital Library"
+  },
+  {
+    "label": "University of the Incarnate Word Library",
+    "value": "University of the Incarnate Word Library"
+  },
+  {
+    "label": "University of the Ozarks, Robson Library",
+    "value": "University of the Ozarks, Robson Library"
+  },
+  {
+    "label": "US Air Force, Laughlin AFB - FL300 Base Library",
+    "value": "US Air Force, Laughlin AFB - FL300 Base Library"
+  },
+  {
+    "label": "US Air Force, Little Rock AFB, Library 4460",
+    "value": "US Air Force, Little Rock AFB, Library 4460"
+  },
+  {
+    "label": "Utah State Library",
+    "value": "Utah State Library"
+  },
+  {
+    "label": "Van Buren County Library",
+    "value": "Van Buren County Library"
+  },
+  {
+    "label": "Victoria Public Library",
+    "value": "Victoria Public Library"
+  },
+  {
+    "label": "W. Walworth Harrison Public Library",
+    "value": "W. Walworth Harrison Public Library"
+  },
+  {
+    "label": "Waco-McLennan County Library",
+    "value": "Waco-McLennan County Library"
+  },
+  {
+    "label": "Waco-McLennan County Library - System East Waco Library",
+    "value": "Waco-McLennan County Library - System East Waco Library"
+  },
+  {
+    "label": "Washington County Library",
+    "value": "Washington County Library"
+  },
+  {
+    "label": "Washington Public Library",
+    "value": "Washington Public Library"
+  },
+  {
+    "label": "Washington State Library",
+    "value": "Washington State Library"
+  },
+  {
+    "label": "Washington University in St. Louis - University Libraries",
+    "value": "Washington University in St. Louis - University Libraries"
+  },
+  {
+    "label": "Washington University Law School Law School Library",
+    "value": "Washington University Law School Law School Library"
+  },
+  {
+    "label": "Washington University Medical School Bernard Becker Medical Library",
+    "value": "Washington University Medical School Bernard Becker Medical Library"
+  },
+  {
+    "label": "Watauga Public Library",
+    "value": "Watauga Public Library"
+  },
+  {
+    "label": "Wayland Baptist University",
+    "value": "Wayland Baptist University"
+  },
+  {
+    "label": "Weatherford College Library",
+    "value": "Weatherford College Library"
+  },
+  {
+    "label": "Weatherford Public Library",
+    "value": "Weatherford Public Library"
+  },
+  {
+    "label": "Webster County Library",
+    "value": "Webster County Library"
+  },
+  {
+    "label": "Webster University Library",
+    "value": "Webster University Library"
+  },
+  {
+    "label": "West Memphis Public Library",
+    "value": "West Memphis Public Library"
+  },
+  {
+    "label": "West Texas A&M University",
+    "value": "West Texas A&M University"
+  },
+  {
+    "label": "Western New Mexico University",
+    "value": "Western New Mexico University"
+  },
+  {
+    "label": "Western Texas College Library",
+    "value": "Western Texas College Library"
+  },
+  {
+    "label": "Wharton County Junior College",
+    "value": "Wharton County Junior College"
+  },
+  {
+    "label": "Wharton County Junior College, Sugar Land Campus Library",
+    "value": "Wharton County Junior College, Sugar Land Campus Library"
+  },
+  {
+    "label": "Whitehouse Community Library",
+    "value": "Whitehouse Community Library"
+  },
+  {
+    "label": "Wichita Falls Public Library",
+    "value": "Wichita Falls Public Library"
+  },
+  {
+    "label": "Wichita State University, University Libraries",
+    "value": "Wichita State University, University Libraries"
+  },
+  {
+    "label": "Wiley College, Thomas Winston Cole, Sr. Library",
+    "value": "Wiley College, Thomas Winston Cole, Sr. Library"
+  },
+  {
+    "label": "William Woods University Dulany Library",
+    "value": "William Woods University Dulany Library"
+  },
+  {
+    "label": "Williams Baptist University",
+    "value": "Williams Baptist University"
+  },
+  {
+    "label": "Wyoming State Library",
+    "value": "Wyoming State Library"
+  },
+  {
+    "label": "Yavapai County Free Library District",
+    "value": "Yavapai County Free Library District"
+  },
+  {
+    "label": "Yuma County Library District",
+    "value": "Yuma County Library District"
+  },
+  {
+    "label": "Yuma County Library District - Foothills Branch Library",
+    "value": "Yuma County Library District - Foothills Branch Library"
+  },
+  {
+    "label": "Yuma County Library District - San Luis Branch Library",
+    "value": "Yuma County Library District - San Luis Branch Library"
+  },
+  {
+    "label": "Yuma County Library District - Somerton Branch Library",
+    "value": "Yuma County Library District - Somerton Branch Library"
+  },
+  {
+    "label": "Yuma County Library District - Wellton Branch Library",
+    "value": "Yuma County Library District - Wellton Branch Library"
+  }
+]
