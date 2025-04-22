@@ -912,8 +912,8 @@
     "value": "Fort Bend County Libraries - Mamie George Branch Library"
   },
   {
-    "label": "Fort Bend County Libraries - Missouri City Branch Library",
-    "value": "Fort Bend County Libraries - Missouri City Branch Library"
+    "label": "Fort Bend County Libraries -  City Branch Library",
+    "value": "Fort Bend County Libraries -  City Branch Library"
   },
   {
     "label": "Fort Smith Public Library",
@@ -1550,6 +1550,10 @@
   {
     "label": "Missouri River Regional Library",
     "value": "Missouri River Regional Library"
+  },
+  {
+    "label": "Missouri Southern State University Spiva Library",
+    "value": "Missouri Southern State University Spiva Library"
   },
   {
     "label": "Missouri State Library",
