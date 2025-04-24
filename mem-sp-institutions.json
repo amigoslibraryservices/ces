@@ -56,8 +56,12 @@
     "value": "Amberton University, Library Resource Center"
   },
   {
-    "label": "Amigos Library Services",
+    "label": "Amigos Library Services - Employee",
     "value": "Amigos Library Services"
+  },
+  {
+    "label": "Amigos Library Services (Administrative Use Only)",
+    "value": "Non-member Exception"
   },
   {
     "label": "Angelina College Library",
