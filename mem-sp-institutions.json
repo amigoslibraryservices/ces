@@ -172,8 +172,8 @@
     "value": "Austin Community College - Highland Campus Library"
   },
   {
-    "label": "Austin Community College Library Services",
-    "value": "Austin Community College Library Services"
+    "label": "Austin Community College District",
+    "value": "Austin Community College District"
   },
   {
     "label": "Austin Community College Library Services - Cypress Creek Campus Library",
@@ -1864,12 +1864,12 @@
     "value": "Missouri River Regional Library"
   },
   {
-    "label": "Missouri State Library",
-    "value": "Missouri State Library"
-  },
-  {
     "label": "Missouri Southern State University Spiva Library",
     "value": "Missouri Southern State University Spiva Library"
+  },
+  {
+    "label": "Missouri State Library",
+    "value": "Missouri State Library"
   },
   {
     "label": "Missouri State University Duane G. Meyer Library",
@@ -1954,10 +1954,6 @@
   {
     "label": "Nebraska Library Commission",
     "value": "Nebraska Library Commission"
-  },
-  {
-    "label": "Nelson Atkins Museum of Art",
-    "value": "Nelson Atkins Museum of Art"
   },
   {
     "label": "Nelson University",
@@ -2966,6 +2962,10 @@
   {
     "label": "The Museum of Fine Arts, Houston",
     "value": "The Museum of Fine Arts, Houston"
+  },
+  {
+    "label": "The Nelson-Atkins Museum of Art",
+    "value": "The Nelson-Atkins Museum of Art"
   },
   {
     "label": "The University of Tulsa, McFarlin Library",
