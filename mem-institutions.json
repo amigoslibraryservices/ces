@@ -2376,6 +2376,10 @@
     "value": "Texas A&M University School of Law"
   },
   {
+    "label": "Texas A&M University-Victoria",
+    "value": "Texas A&M University-Victoria"
+  },
+  {
     "label": "Texas A&M University, Cushing Memorial Library",
     "value": "Texas A&M University, Cushing Memorial Library"
   },
@@ -2662,10 +2666,6 @@
   {
     "label": "University of Houston - University Libraries",
     "value": "University of Houston - University Libraries"
-  },
-  {
-    "label": "Texas A&M University-Victoria",
-    "value": "Texas A&M University-Victoria"
   },
   {
     "label": "University of Mary Hardin-Baylor, Townsend Memorial Library",
@@ -2962,6 +2962,10 @@
   {
     "label": "Williams Baptist University",
     "value": "Williams Baptist University"
+  },
+  {
+    "label": "Wimberley Village Library",
+    "value": "Wimberley Village Library"
   },
   {
     "label": "Wyoming State Library",
