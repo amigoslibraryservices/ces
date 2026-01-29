@@ -1,0 +1,12 @@
+{
+  "name": "yaml-json-converter",
+  "version": "1.0.0",
+  "description": "Convert YAML institution list to JSON",
+  "main": "convert-yaml-to-json.js",
+  "scripts": {
+    "convert": "node convert-yaml-to-json.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  }
+}

@@ -1,0 +1,40 @@
+name: Convert YAML to JSON
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'input/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'input/**'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: cd converter && npm install
+      
+      - name: Convert YAML to JSON
+        run: cd converter && npm run convert
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update converted JSON files" && git push)
