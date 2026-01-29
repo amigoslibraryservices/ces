@@ -37,5 +37,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/
+          git add docs/
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update converted JSON files" && git push origin HEAD:${{ github.ref_name }})
