@@ -84,6 +84,10 @@
     "value": "Angelo State University Library"
   },
   {
+    "label": "Another test",
+    "value": "Another test"
+  },
+  {
     "label": "Apache County Library District",
     "value": "Apache County Library District"
   },
@@ -3430,10 +3434,6 @@
   {
     "label": "Terrell County Public Library",
     "value": "Terrell County Public Library"
-  },
-  {
-    "label": "Testing a change",
-    "value": "Testing a change"
   },
   {
     "label": "Texarkana College, Palmer Memorial Library",
