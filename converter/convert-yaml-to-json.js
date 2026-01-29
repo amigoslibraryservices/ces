@@ -7,7 +7,7 @@ const yaml = require('js-yaml');
 // Get the parent directory (root of the project)
 const rootDir = path.dirname(__dirname);
 const inputDir = path.join(rootDir, 'input');
-const outputDir = path.join(rootDir, 'output');
+const outputDir = path.join(rootDir, 'docs');
 
 // Ensure output directory exists
 if (!fs.existsSync(outputDir)) {
