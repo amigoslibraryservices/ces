@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - yml-converter
     paths:
       - 'input/**'
   pull_request:

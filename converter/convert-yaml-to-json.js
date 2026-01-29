@@ -34,11 +34,13 @@ yamlFiles.forEach(yamlFile => {
     // Parse YAML
     const values = yaml.load(yamlContent);
 
-    // Convert to the original JSON structure
-    const jsonData = values.map(value => ({
-      label: value,
-      value: value
-    }));
+    // Convert to the original JSON structure, sorted alphabetically
+    const jsonData = values
+      .sort()
+      .map(value => ({
+        label: value,
+        value: value
+      }));
 
     // Write to JSON file
     fs.writeFileSync(jsonOutputPath, JSON.stringify(jsonData, null, 2));
