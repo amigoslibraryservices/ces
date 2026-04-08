@@ -44,11 +44,9 @@ async function crmToJson(accountTypeId) {
 
   const customValues = ["Amigos Library Services", "Non-member Exception"];
 
-  const jsonData = [
-      ...accounts.value.map(account => account.name), // extract names
-      ...customValues // append manually
-    ]
+  const jsonData = [...accounts.value]
     .map(account => account.name)
+    .concat(customValues)
     .sort()
     .map(name => ({ label: name, value: name }));
 
