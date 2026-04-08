@@ -25,7 +25,7 @@ async function crmToJson(accountTypeId) {
   .sort((a, b) => a.name.localeCompare(b.name))
   .map(account => ({
     label: account.name,
-    value: account.accountid
+    value: account.name
   }));
 
   console.log(outputDir);
