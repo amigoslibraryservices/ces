@@ -24,11 +24,11 @@ jobs:
       - name: Fetch CRM data and convert to JSON
         env:
             NODE_ENV: production
-            # DYNAMICS_TENANT_ID: ${{ secrets.DYNAMICS_TENANT_ID }}
-            # DYNAMICS_CLIENT_ID: ${{ secrets.DYNAMICS_CLIENT_ID }}
-            # DYNAMICS_CLIENT_SECRET: ${{ secrets.DYNAMICS_CLIENT_SECRET }}
-            # DYNAMICS_API_VERSION: 9.2
-            # DYNAMICS_ORG_URL: https://amigosls.api.crm.dynamics.com
+            DYNAMICS_TENANT_ID: ${{ secrets.DYNAMICS_TENANT_ID }}
+            DYNAMICS_CLIENT_ID: ${{ secrets.DYNAMICS_CLIENT_ID }}
+            DYNAMICS_CLIENT_SECRET: ${{ secrets.DYNAMICS_CLIENT_SECRET }}
+            DYNAMICS_API_VERSION: 9.2
+            DYNAMICS_ORG_URL: https://amigosls.api.crm.dynamics.com
         run: cd converter && npm run crm
       
       - name: Commit and push changes
