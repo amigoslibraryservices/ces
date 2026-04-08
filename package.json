@@ -5,7 +5,7 @@
   "main": "convert-yaml-to-json.js",
   "type": "module",
   "scripts": {
-    "convert": "node convert-yaml-to-json.js",
+    "convert": "node converter/convert-yaml-to-json.js",
     "crm": "node converter/crm-to-json.js --types=6,8 && node converter/crm-to-json.js --types=6,8,100000000"
   },
   "dependencies": {
