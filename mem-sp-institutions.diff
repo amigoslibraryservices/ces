@@ -1,5 +1,5 @@
 diff --git a/docs/mem-sp-institutions.json b/docs/crm/mem-sp-institutions.json
-index cbc4335..18d4a68 100644
+index cbc4335..fd9afb0 100644
 --- a/docs/mem-sp-institutions.json
 +++ b/docs/crm/mem-sp-institutions.json
 @@ -55,10 +55,6 @@
@@ -43,18 +43,7 @@ index cbc4335..18d4a68 100644
    },
    {
      "label": "Arkansas River Valley Regional Library System",
-@@ -979,6 +975,10 @@
-     "label": "Evanston Township High School Library",
-     "value": "Evanston Township High School Library"
-   },
-+  {
-+    "label": "Everest College - Aurora Library",
-+    "value": "Everest College - Aurora Library"
-+  },
-   {
-     "label": "ExxonMobil Central Library & Information Center",
-     "value": "ExxonMobil Central Library & Information Center"
-@@ -1552,8 +1552,8 @@
+@@ -1552,8 +1548,8 @@
      "value": "Lewisville Public Library"
    },
    {
@@ -65,18 +54,7 @@ index cbc4335..18d4a68 100644
    },
    {
      "label": "Lincoln University, Inman E. Page Library",
-@@ -1683,6 +1683,10 @@
-     "label": "Maricopa Community College District",
-     "value": "Maricopa Community College District"
-   },
-+  {
-+    "label": "Maricopa Community College District Libraries - Campbell Branch",
-+    "value": "Maricopa Community College District Libraries - Campbell Branch"
-+  },
-   {
-     "label": "Maricopa Community College District Libraries - Chandler Gilbert Community College",
-     "value": "Maricopa Community College District Libraries - Chandler Gilbert Community College"
-@@ -2035,10 +2039,6 @@
+@@ -2035,10 +2031,6 @@
      "label": "Nogales - Santa Cruz County Public Library",
      "value": "Nogales - Santa Cruz County Public Library"
    },
@@ -87,7 +65,7 @@ index cbc4335..18d4a68 100644
    {
      "label": "North Central Texas College Library",
      "value": "North Central Texas College Library"
-@@ -2339,10 +2339,6 @@
+@@ -2339,10 +2331,6 @@
      "label": "Pulaski County Library",
      "value": "Pulaski County Library"
    },
@@ -98,7 +76,7 @@ index cbc4335..18d4a68 100644
    {
      "label": "Redlands Community College",
      "value": "Redlands Community College"
-@@ -3103,6 +3099,10 @@
+@@ -3103,6 +3091,10 @@
      "label": "University of Arizona, Health Science Center Library",
      "value": "University of Arizona, Health Science Center Library"
    },
@@ -109,25 +87,3 @@ index cbc4335..18d4a68 100644
    {
      "label": "University of Arkansas Community College at Morrilton Library",
      "value": "University of Arkansas Community College at Morrilton Library"
-@@ -3295,6 +3295,10 @@
-     "label": "University of Science and Arts of Oklahoma, Nash Library",
-     "value": "University of Science and Arts of Oklahoma, Nash Library"
-   },
-+  {
-+    "label": "University of Texas - Pan American, University Library",
-+    "value": "University of Texas - Pan American, University Library"
-+  },
-   {
-     "label": "University of Texas - Rio Grande Valley",
-     "value": "University of Texas - Rio Grande Valley"
-@@ -3515,6 +3519,10 @@
-     "label": "Wyoming State Library",
-     "value": "Wyoming State Library"
-   },
-+  {
-+    "label": "X_ExxonMobil Central Library & Information Center",
-+    "value": "X_ExxonMobil Central Library & Information Center"
-+  },
-   {
-     "label": "Yavapai County Free Library District",
-     "value": "Yavapai County Free Library District"
