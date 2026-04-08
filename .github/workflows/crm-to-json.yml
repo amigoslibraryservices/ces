@@ -1,0 +1,43 @@
+name: Convert YAML to JSON
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: cd converter && npm install
+      
+      - name: Fetch CRM data and convert to JSON
+        env:
+            MY_API_KEY: ${{ secrets.API_KEY }}
+            DYNAMICS_TENANT_ID: ${{ secrets.TENANT_ID }}
+            DYNAMICS_CLIENT_ID: ${{ secrets.CLIENT_ID }}
+            DYNAMICS_CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+            DYNAMICS_API_VERSION: 9.2
+            DYNAMICS_ORG_URL: https://amigosls.api.crm.dynamics.com
+        run: cd converter && npm run crm
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/crm
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update converted JSON files" && git push origin HEAD:${{ github.ref_name }})

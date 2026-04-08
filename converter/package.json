@@ -4,7 +4,8 @@
   "description": "Convert YAML institution list to JSON",
   "main": "convert-yaml-to-json.js",
   "scripts": {
-    "convert": "node convert-yaml-to-json.js"
+    "convert": "node convert-yaml-to-json.js",
+    "crm": "node crm-to-json.js"
   },
   "dependencies": {
     "js-yaml": "^4.1.1"
