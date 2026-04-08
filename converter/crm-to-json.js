@@ -41,12 +41,10 @@ if (!fs.existsSync(outputDir)) {
 
 async function crmToJson(accountTypeId) {
   const accounts = await fetchAccountsByType(accountTypeId);
- const jsonData = [...accounts.value]
-  .sort((a, b) => a.name.localeCompare(b.name))
-  .map(account => ({
-    label: account.name,
-    value: account.name
-  }));
+const jsonData = [...accounts.value]
+  .map(account => account.name)
+  .sort()
+  .map(name => ({ label: name, value: name }));
 
   //Write to JSON file
   const accountType = accountMap[accountTypeId];
