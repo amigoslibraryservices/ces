@@ -27,9 +27,9 @@ const rootDir = path.dirname(path.dirname(import.meta.url.replace('file:/', ''))
 const outputDir = path.join(rootDir, 'docs/crm');
 
 const accountMap = {
-  "8": "institutions",
-  "6,8": "institutions",
-  "100000000": "inst-sp",
+  "8": "mem-institutions",
+  "6,8": "mem-institutions",
+  "100000000": "mem-sp-institutions",
 };
 
 

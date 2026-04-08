@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "convert": "node convert-yaml-to-json.js",
-    "crm": "node crm-to-json.js"
+    "crm": "node converter/crm-to-json.js --types=6,8 && node converter/crm-to-json.js --types=100000000"
   },
   "dependencies": {
     "dotenv": "^17.4.1",
