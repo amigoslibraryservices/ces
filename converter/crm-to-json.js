@@ -29,7 +29,7 @@ const outputDir = path.join(rootDir, 'docs/crm');
 const accountMap = {
   "8": "mem-institutions",
   "6,8": "mem-institutions",
-  "100000000": "mem-sp-institutions",
+  "6,8,100000000": "mem-sp-institutions",
 };
 
 
