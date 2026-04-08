@@ -41,10 +41,16 @@ if (!fs.existsSync(outputDir)) {
 
 async function crmToJson(accountTypeId) {
   const accounts = await fetchAccountsByType(accountTypeId);
-const jsonData = [...accounts.value]
-  .map(account => account.name)
-  .sort()
-  .map(name => ({ label: name, value: name }));
+
+  const customValues = ["Amigos Library Services", "Non-member Exception"];
+
+  const jsonData = [
+      ...accounts.value.map(account => account.name), // extract names
+      ...customValues // append manually
+    ]
+    .map(account => account.name)
+    .sort()
+    .map(name => ({ label: name, value: name }));
 
   //Write to JSON file
   const accountType = accountMap[accountTypeId];
