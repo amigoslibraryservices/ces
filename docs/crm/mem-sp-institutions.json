@@ -1192,6 +1192,10 @@
     "value": "Harrington Library Consortium"
   },
   {
+    "label": "Harris County Public LIbrary - Maud Smith Marks Branch",
+    "value": "Harris County Public LIbrary - Maud Smith Marks Branch"
+  },
+  {
     "label": "Harris County Public Library",
     "value": "Harris County Public Library"
   },
@@ -1222,10 +1226,6 @@
   {
     "label": "Harris County Public Library - La Porte Branch",
     "value": "Harris County Public Library - La Porte Branch"
-  },
-  {
-    "label": "Harris County Public LIbrary - Maud Smith Marks Branch",
-    "value": "Harris County Public LIbrary - Maud Smith Marks Branch"
   },
   {
     "label": "Harris County Public Library - Octavia Fields Branch",
@@ -1528,18 +1528,6 @@
     "value": "Lawton Public Library"
   },
   {
-    "label": "Lee College Library",
-    "value": "Lee College Library"
-  },
-  {
-    "label": "Lee's Summit R-VII School District Library",
-    "value": "Lee's Summit R-VII School District Library"
-  },
-  {
-    "label": "Leon Valley Public Library",
-    "value": "Leon Valley Public Library"
-  },
-  {
     "label": "LeTourneau University",
     "value": "LeTourneau University"
   },
@@ -1550,6 +1538,18 @@
   {
     "label": "LeTourneau University - Houston Educational Center",
     "value": "LeTourneau University - Houston Educational Center"
+  },
+  {
+    "label": "Lee College Library",
+    "value": "Lee College Library"
+  },
+  {
+    "label": "Lee's Summit R-VII School District Library",
+    "value": "Lee's Summit R-VII School District Library"
+  },
+  {
+    "label": "Leon Valley Public Library",
+    "value": "Leon Valley Public Library"
   },
   {
     "label": "Lewisville Public Library",
@@ -2780,6 +2780,10 @@
     "value": "Sul Ross State University"
   },
   {
+    "label": "TCS Education System",
+    "value": "TCS Education System"
+  },
+  {
     "label": "Tarleton State University - Dick Smith Library",
     "value": "Tarleton State University - Dick Smith Library"
   },
@@ -2804,10 +2808,6 @@
     "value": "Tarrant County College District Libraries - Southeast Campus"
   },
   {
-    "label": "TCS Education System",
-    "value": "TCS Education System"
-  },
-  {
     "label": "Temple College, Hubert M. Dawson Library",
     "value": "Temple College, Hubert M. Dawson Library"
   },
@@ -2822,10 +2822,6 @@
   {
     "label": "Texarkana Public Library",
     "value": "Texarkana Public Library"
-  },
-  {
-    "label": "Texas A&M and University of Texas Systems Joint Library Facility",
-    "value": "Texas A&M and University of Texas Systems Joint Library Facility"
   },
   {
     "label": "Texas A&M International University",
@@ -2856,10 +2852,6 @@
     "value": "Texas A&M University School of Law"
   },
   {
-    "label": "Texas A&M University-Victoria",
-    "value": "Texas A&M University-Victoria"
-  },
-  {
     "label": "Texas A&M University, Cushing Memorial Library",
     "value": "Texas A&M University, Cushing Memorial Library"
   },
@@ -2870,6 +2862,14 @@
   {
     "label": "Texas A&M University, Sterling C. Evans Library",
     "value": "Texas A&M University, Sterling C. Evans Library"
+  },
+  {
+    "label": "Texas A&M University-Victoria",
+    "value": "Texas A&M University-Victoria"
+  },
+  {
+    "label": "Texas A&M and University of Texas Systems Joint Library Facility",
+    "value": "Texas A&M and University of Texas Systems Joint Library Facility"
   },
   {
     "label": "Texas Chiropractic College",
@@ -3076,6 +3076,14 @@
     "value": "Tyler Public Library"
   },
   {
+    "label": "US Air Force, Laughlin AFB - FL300 Base Library",
+    "value": "US Air Force, Laughlin AFB - FL300 Base Library"
+  },
+  {
+    "label": "US Air Force, Little Rock AFB, Library 4460",
+    "value": "US Air Force, Little Rock AFB, Library 4460"
+  },
+  {
     "label": "United States Holocaust Memorial Museum",
     "value": "United States Holocaust Memorial Museum"
   },
@@ -3100,6 +3108,10 @@
     "value": "University of Arkansas - Pulaski Technical College Libraries"
   },
   {
+    "label": "University of Arkansas Community College at Morrilton Library",
+    "value": "University of Arkansas Community College at Morrilton Library"
+  },
+  {
     "label": "University of Arkansas at Fort Smith, Boreham Library",
     "value": "University of Arkansas at Fort Smith, Boreham Library"
   },
@@ -3118,10 +3130,6 @@
   {
     "label": "University of Arkansas at Monticello Library",
     "value": "University of Arkansas at Monticello Library"
-  },
-  {
-    "label": "University of Arkansas Community College at Morrilton Library",
-    "value": "University of Arkansas Community College at Morrilton Library"
   },
   {
     "label": "University of Arkansas for Medical Sciences Library",
@@ -3188,6 +3196,10 @@
     "value": "University of Missouri - Columbia, School of Information Science & Learning Technologies"
   },
   {
+    "label": "University of Missouri Systems Office",
+    "value": "University of Missouri Systems Office"
+  },
+  {
     "label": "University of Missouri – Columbia Health Sciences J. Otto Lottes Health Sciences Library",
     "value": "University of Missouri – Columbia Health Sciences J. Otto Lottes Health Sciences Library"
   },
@@ -3210,10 +3222,6 @@
   {
     "label": "University of Missouri – St. Louis, Thomas Jefferson Library",
     "value": "University of Missouri – St. Louis, Thomas Jefferson Library"
-  },
-  {
-    "label": "University of Missouri Systems Office",
-    "value": "University of Missouri Systems Office"
   },
   {
     "label": "University of New Mexico",
@@ -3300,6 +3308,42 @@
     "value": "University of Texas - Rio Grande Valley"
   },
   {
+    "label": "University of Texas Health Science Center at San Antonio Library",
+    "value": "University of Texas Health Science Center at San Antonio Library"
+  },
+  {
+    "label": "University of Texas Health Science Center at San Antonio Library - Regional Academic Health Center Medical Library",
+    "value": "University of Texas Health Science Center at San Antonio Library - Regional Academic Health Center Medical Library"
+  },
+  {
+    "label": "University of Texas Health Science Center at Tyler",
+    "value": "University of Texas Health Science Center at Tyler"
+  },
+  {
+    "label": "University of Texas Libraries, The University of Texas at Austin",
+    "value": "University of Texas Libraries, The University of Texas at Austin"
+  },
+  {
+    "label": "University of Texas Marine Science Library",
+    "value": "University of Texas Marine Science Library"
+  },
+  {
+    "label": "University of Texas Rio Grande Valley - Brownsville",
+    "value": "University of Texas Rio Grande Valley - Brownsville"
+  },
+  {
+    "label": "University of Texas Southwestern Medical Center at Dallas Library",
+    "value": "University of Texas Southwestern Medical Center at Dallas Library"
+  },
+  {
+    "label": "University of Texas Southwestern Medical Center at Dallas Library - North Campus Library",
+    "value": "University of Texas Southwestern Medical Center at Dallas Library - North Campus Library"
+  },
+  {
+    "label": "University of Texas System TeleCampus Digital Library",
+    "value": "University of Texas System TeleCampus Digital Library"
+  },
+  {
     "label": "University of Texas at Arlington Library",
     "value": "University of Texas at Arlington Library"
   },
@@ -3340,44 +3384,8 @@
     "value": "University of Texas at Tyler Library"
   },
   {
-    "label": "University of Texas Health Science Center at San Antonio Library",
-    "value": "University of Texas Health Science Center at San Antonio Library"
-  },
-  {
-    "label": "University of Texas Health Science Center at San Antonio Library - Regional Academic Health Center Medical Library",
-    "value": "University of Texas Health Science Center at San Antonio Library - Regional Academic Health Center Medical Library"
-  },
-  {
-    "label": "University of Texas Health Science Center at Tyler",
-    "value": "University of Texas Health Science Center at Tyler"
-  },
-  {
-    "label": "University of Texas Libraries, The University of Texas at Austin",
-    "value": "University of Texas Libraries, The University of Texas at Austin"
-  },
-  {
-    "label": "University of Texas Marine Science Library",
-    "value": "University of Texas Marine Science Library"
-  },
-  {
     "label": "University of Texas of the Permian Basin",
     "value": "University of Texas of the Permian Basin"
-  },
-  {
-    "label": "University of Texas Rio Grande Valley - Brownsville",
-    "value": "University of Texas Rio Grande Valley - Brownsville"
-  },
-  {
-    "label": "University of Texas Southwestern Medical Center at Dallas Library",
-    "value": "University of Texas Southwestern Medical Center at Dallas Library"
-  },
-  {
-    "label": "University of Texas Southwestern Medical Center at Dallas Library - North Campus Library",
-    "value": "University of Texas Southwestern Medical Center at Dallas Library - North Campus Library"
-  },
-  {
-    "label": "University of Texas System TeleCampus Digital Library",
-    "value": "University of Texas System TeleCampus Digital Library"
   },
   {
     "label": "University of the Incarnate Word Library",
@@ -3386,14 +3394,6 @@
   {
     "label": "University of the Ozarks, Robson Library",
     "value": "University of the Ozarks, Robson Library"
-  },
-  {
-    "label": "US Air Force, Laughlin AFB - FL300 Base Library",
-    "value": "US Air Force, Laughlin AFB - FL300 Base Library"
-  },
-  {
-    "label": "US Air Force, Little Rock AFB, Library 4460",
-    "value": "US Air Force, Little Rock AFB, Library 4460"
   },
   {
     "label": "Utah State Library",
@@ -3432,16 +3432,16 @@
     "value": "Washington State Library"
   },
   {
-    "label": "Washington University in St. Louis - University Libraries",
-    "value": "Washington University in St. Louis - University Libraries"
-  },
-  {
     "label": "Washington University Law School Law School Library",
     "value": "Washington University Law School Law School Library"
   },
   {
     "label": "Washington University Medical School Bernard Becker Medical Library",
     "value": "Washington University Medical School Bernard Becker Medical Library"
+  },
+  {
+    "label": "Washington University in St. Louis - University Libraries",
+    "value": "Washington University in St. Louis - University Libraries"
   },
   {
     "label": "Watauga Public Library",
