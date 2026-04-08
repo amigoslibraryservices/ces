@@ -7,6 +7,7 @@ const rootDir = path.dirname(path.dirname(import.meta.url.replace('file:/', ''))
 const outputDir = path.join(rootDir, 'docs/crm');
 
 const accountMap = {
+  "8": "institutions",
   "6,8": "institutions",
   "100000000": "inst-sp",
 };
@@ -20,7 +21,6 @@ if (!fs.existsSync(outputDir)) {
 
 async function crmToJson(accountTypeId) {
   const accounts = await fetchAccountsByType(accountTypeId);
-  console.log(accounts);
  const jsonData = [...accounts.value]
   .sort((a, b) => a.name.localeCompare(b.name))
   .map(account => ({
@@ -28,7 +28,6 @@ async function crmToJson(accountTypeId) {
     value: account.name
   }));
 
-  console.log(outputDir);
   //Write to JSON file
   const accountType = accountMap[accountTypeId];
   const jsonFileName =  accountType + '.json';
@@ -38,7 +37,7 @@ async function crmToJson(accountTypeId) {
   console.log(`✓ Fetched accounts and saved to ${jsonOutputPath}`);
 }
 
-crmToJson([6, 8]).catch(error => {
+crmToJson([6,8]).catch(error => {
   console.error('Error fetching accounts:', error);
 });
 
