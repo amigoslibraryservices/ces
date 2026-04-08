@@ -3,6 +3,26 @@ import fetchAccountsByType from '../lib/dynamix.js';
 import fs from 'fs';
 import path from 'path';
 
+
+import minimist from "minimist";
+
+
+const argv = minimist(process.argv.slice(2));
+
+function parseIds(value, defaultValue = []) {
+  if (!value) return defaultValue;
+
+  const arr = Array.isArray(value) ? value : [value];
+
+  return arr
+    .flatMap(v => String(v).split(","))
+    .map(v => parseInt(v.trim(), 10))
+    .filter(Number.isFinite);
+}
+
+const accountTypeIds = parseIds(argv.types, [6, 8]);
+
+console.log("Fetching accounts with membership status IDs:", accountTypeIds);
 const rootDir = path.dirname(path.dirname(import.meta.url.replace('file:/', '')));
 const outputDir = path.join(rootDir, 'docs/crm');
 
@@ -37,7 +57,7 @@ async function crmToJson(accountTypeId) {
   console.log(`✓ Fetched accounts and saved to ${jsonOutputPath}`);
 }
 
-crmToJson([6,8]).catch(error => {
+crmToJson(accountTypeIds).catch(error => {
   console.error('Error fetching accounts:', error);
 });
 

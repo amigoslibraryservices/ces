@@ -1,11 +1,10 @@
 #!/usr/bin/env node
-
-const fs = require('fs');
-const path = require('path');
-const yaml = require('js-yaml');
+import fs from 'fs';
+import path from 'path';
+import yaml from 'js-yaml';
 
 // Get the parent directory (root of the project)
-const rootDir = path.dirname(__dirname);
+const rootDir = path.dirname(path.dirname(import.meta.url.replace('file:/', '')));
 const inputDir = path.join(rootDir, 'input');
 const outputDir = path.join(rootDir, 'docs');
 
@@ -51,4 +50,4 @@ yamlFiles.forEach(yamlFile => {
   }
 });
 
-console.log(`\nAll conversions complete!`);
+console.log(`\nAll conversions complete!`); 

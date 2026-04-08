@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "Convert YAML institution list to JSON",
   "main": "convert-yaml-to-json.js",
+  "type": "module",
   "scripts": {
     "convert": "node convert-yaml-to-json.js",
     "crm": "node crm-to-json.js"
   },
   "dependencies": {
     "dotenv": "^17.4.1",
-    "js-yaml": "^4.1.1"
+    "js-yaml": "^4.1.1",
+    "minimist": "^1.2.8"
   }
 }
