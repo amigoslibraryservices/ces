@@ -1,0 +1,368 @@
+diff --git a/docs/mem-institutions.json b/docs/crm/mem-institutions.json
+index c2430bc..dba44ca 100644
+--- a/docs/mem-institutions.json
++++ b/docs/crm/mem-institutions.json
+@@ -39,10 +39,6 @@
+     "label": "Amberton University, Library Resource Center",
+     "value": "Amberton University, Library Resource Center"
+   },
+-  {
+-    "label": "Amigos Library Services",
+-    "value": "Amigos Library Services"
+-  },
+   {
+     "label": "Angelina College Library",
+     "value": "Angelina College Library"
+@@ -60,12 +56,8 @@
+     "value": "Apache County Library District - Round Valley Public Library"
+   },
+   {
+-    "label": "Arkansas River Valley Regional Library Booneville Public Library",
+-    "value": "Arkansas River Valley Regional Library Booneville Public Library"
+-  },
+-  {
+-    "label": "Arkansas River Valley Regional Library Boyd T. & Mollie Gattis Logan County Library",
+-    "value": "Arkansas River Valley Regional Library Boyd T. & Mollie Gattis Logan County Library"
++    "label": "Arkansas River Valley Regional Library Boyd T. and Mollie Gattis-Logan County Library",
++    "value": "Arkansas River Valley Regional Library Boyd T. and Mollie Gattis-Logan County Library"
+   },
+   {
+     "label": "Arkansas River Valley Regional Library Charleston Public Library",
+@@ -80,8 +72,12 @@
+     "value": "Arkansas River Valley Regional Library Franklin County Library"
+   },
+   {
+-    "label": "Arkansas River Valley Regional Library Johnson Public Library",
+-    "value": "Arkansas River Valley Regional Library Johnson Public Library"
++    "label": "Arkansas River Valley Regional Library Johnson County Public Library",
++    "value": "Arkansas River Valley Regional Library Johnson County Public Library"
++  },
++  {
++    "label": "Arkansas River Valley Regional Library Logan County Library",
++    "value": "Arkansas River Valley Regional Library Logan County Library"
+   },
+   {
+     "label": "Arkansas River Valley Regional Library System",
+@@ -871,6 +867,10 @@
+     "label": "Evanston Township High School Library",
+     "value": "Evanston Township High School Library"
+   },
++  {
++    "label": "Everest College - Aurora Library",
++    "value": "Everest College - Aurora Library"
++  },
+   {
+     "label": "ExxonMobil Central Library & Information Center",
+     "value": "ExxonMobil Central Library & Information Center"
+@@ -999,10 +999,6 @@
+     "label": "Harrington Library Consortium",
+     "value": "Harrington Library Consortium"
+   },
+-  {
+-    "label": "Harris County Public LIbrary - Maud Smith Marks Branch",
+-    "value": "Harris County Public LIbrary - Maud Smith Marks Branch"
+-  },
+   {
+     "label": "Harris County Public Library",
+     "value": "Harris County Public Library"
+@@ -1035,6 +1031,10 @@
+     "label": "Harris County Public Library - La Porte Branch",
+     "value": "Harris County Public Library - La Porte Branch"
+   },
++  {
++    "label": "Harris County Public LIbrary - Maud Smith Marks Branch",
++    "value": "Harris County Public LIbrary - Maud Smith Marks Branch"
++  },
+   {
+     "label": "Harris County Public Library - Octavia Fields Branch",
+     "value": "Harris County Public Library - Octavia Fields Branch"
+@@ -1271,18 +1271,6 @@
+     "label": "Lawton Public Library",
+     "value": "Lawton Public Library"
+   },
+-  {
+-    "label": "LeTourneau University",
+-    "value": "LeTourneau University"
+-  },
+-  {
+-    "label": "LeTourneau University - Graduate & Professional Studies",
+-    "value": "LeTourneau University - Graduate & Professional Studies"
+-  },
+-  {
+-    "label": "LeTourneau University - Houston Educational Center",
+-    "value": "LeTourneau University - Houston Educational Center"
+-  },
+   {
+     "label": "Lee College Library",
+     "value": "Lee College Library"
+@@ -1296,8 +1284,20 @@
+     "value": "Leon Valley Public Library"
+   },
+   {
+-    "label": "Liberty Public Schools",
+-    "value": "Liberty Public Schools"
++    "label": "LeTourneau University",
++    "value": "LeTourneau University"
++  },
++  {
++    "label": "LeTourneau University - Graduate & Professional Studies",
++    "value": "LeTourneau University - Graduate & Professional Studies"
++  },
++  {
++    "label": "LeTourneau University - Houston Educational Center",
++    "value": "LeTourneau University - Houston Educational Center"
++  },
++  {
++    "label": "Liberty Public Schools #53 Library",
++    "value": "Liberty Public Schools #53 Library"
+   },
+   {
+     "label": "Lincoln University, Inman E. Page Library",
+@@ -1411,6 +1411,10 @@
+     "label": "Maricopa Community College District",
+     "value": "Maricopa Community College District"
+   },
++  {
++    "label": "Maricopa Community College District Libraries - Campbell Branch",
++    "value": "Maricopa Community College District Libraries - Campbell Branch"
++  },
+   {
+     "label": "Maricopa Community College District Libraries - Chandler Gilbert Community College",
+     "value": "Maricopa Community College District Libraries - Chandler Gilbert Community College"
+@@ -1699,10 +1703,6 @@
+     "label": "Nogales - Santa Cruz County Public Library",
+     "value": "Nogales - Santa Cruz County Public Library"
+   },
+-  {
+-    "label": "Non-member Exception",
+-    "value": "Non-member Exception"
+-  },
+   {
+     "label": "North Central Texas College Library",
+     "value": "North Central Texas College Library"
+@@ -1955,10 +1955,6 @@
+     "label": "Pulaski County Library",
+     "value": "Pulaski County Library"
+   },
+-  {
+-    "label": "Pulaski Technical College Library",
+-    "value": "Pulaski Technical College Library"
+-  },
+   {
+     "label": "Redlands Community College",
+     "value": "Redlands Community College"
+@@ -2315,10 +2311,6 @@
+     "label": "Sul Ross State University",
+     "value": "Sul Ross State University"
+   },
+-  {
+-    "label": "TCS Education System",
+-    "value": "TCS Education System"
+-  },
+   {
+     "label": "Tarleton State University - Dick Smith Library",
+     "value": "Tarleton State University - Dick Smith Library"
+@@ -2343,6 +2335,10 @@
+     "label": "Tarrant County College District Libraries - Southeast Campus",
+     "value": "Tarrant County College District Libraries - Southeast Campus"
+   },
++  {
++    "label": "TCS Education System",
++    "value": "TCS Education System"
++  },
+   {
+     "label": "Temple College, Hubert M. Dawson Library",
+     "value": "Temple College, Hubert M. Dawson Library"
+@@ -2387,6 +2383,10 @@
+     "label": "Texas A&M University School of Law",
+     "value": "Texas A&M University School of Law"
+   },
++  {
++    "label": "Texas A&M University-Victoria",
++    "value": "Texas A&M University-Victoria"
++  },
+   {
+     "label": "Texas A&M University, Cushing Memorial Library",
+     "value": "Texas A&M University, Cushing Memorial Library"
+@@ -2399,10 +2399,6 @@
+     "label": "Texas A&M University, Sterling C. Evans Library",
+     "value": "Texas A&M University, Sterling C. Evans Library"
+   },
+-  {
+-    "label": "Texas A&M University-Victoria",
+-    "value": "Texas A&M University-Victoria"
+-  },
+   {
+     "label": "Texas Chiropractic College",
+     "value": "Texas Chiropractic College"
+@@ -2591,14 +2587,6 @@
+     "label": "Tyler Junior College - Vaughn Library",
+     "value": "Tyler Junior College - Vaughn Library"
+   },
+-  {
+-    "label": "US Air Force, Laughlin AFB - FL300 Base Library",
+-    "value": "US Air Force, Laughlin AFB - FL300 Base Library"
+-  },
+-  {
+-    "label": "US Air Force, Little Rock AFB, Library 4460",
+-    "value": "US Air Force, Little Rock AFB, Library 4460"
+-  },
+   {
+     "label": "United States Holocaust Memorial Museum",
+     "value": "United States Holocaust Memorial Museum"
+@@ -2620,8 +2608,8 @@
+     "value": "University of Arizona, Health Science Center Library"
+   },
+   {
+-    "label": "University of Arkansas Community College at Morrilton Library",
+-    "value": "University of Arkansas Community College at Morrilton Library"
++    "label": "University of Arkansas - Pulaski Technical College Libraries",
++    "value": "University of Arkansas - Pulaski Technical College Libraries"
+   },
+   {
+     "label": "University of Arkansas at Fort Smith, Boreham Library",
+@@ -2643,6 +2631,10 @@
+     "label": "University of Arkansas at Monticello Library",
+     "value": "University of Arkansas at Monticello Library"
+   },
++  {
++    "label": "University of Arkansas Community College at Morrilton Library",
++    "value": "University of Arkansas Community College at Morrilton Library"
++  },
+   {
+     "label": "University of Arkansas for Medical Sciences Library",
+     "value": "University of Arkansas for Medical Sciences Library"
+@@ -2699,10 +2691,6 @@
+     "label": "University of Missouri - Columbia, School of Information Science & Learning Technologies",
+     "value": "University of Missouri - Columbia, School of Information Science & Learning Technologies"
+   },
+-  {
+-    "label": "University of Missouri Systems Office",
+-    "value": "University of Missouri Systems Office"
+-  },
+   {
+     "label": "University of Missouri – Columbia Health Sciences J. Otto Lottes Health Sciences Library",
+     "value": "University of Missouri – Columbia Health Sciences J. Otto Lottes Health Sciences Library"
+@@ -2727,6 +2715,10 @@
+     "label": "University of Missouri – St. Louis, Thomas Jefferson Library",
+     "value": "University of Missouri – St. Louis, Thomas Jefferson Library"
+   },
++  {
++    "label": "University of Missouri Systems Office",
++    "value": "University of Missouri Systems Office"
++  },
+   {
+     "label": "University of New Mexico",
+     "value": "University of New Mexico"
+@@ -2804,28 +2796,12 @@
+     "value": "University of Science and Arts of Oklahoma, Nash Library"
+   },
+   {
+-    "label": "University of Texas - Rio Grande Valley",
+-    "value": "University of Texas - Rio Grande Valley"
+-  },
+-  {
+-    "label": "University of Texas Health Science Center at Tyler",
+-    "value": "University of Texas Health Science Center at Tyler"
+-  },
+-  {
+-    "label": "University of Texas Libraries, The University of Texas at Austin",
+-    "value": "University of Texas Libraries, The University of Texas at Austin"
+-  },
+-  {
+-    "label": "University of Texas Marine Science Library",
+-    "value": "University of Texas Marine Science Library"
+-  },
+-  {
+-    "label": "University of Texas Rio Grande Valley - Brownsville",
+-    "value": "University of Texas Rio Grande Valley - Brownsville"
++    "label": "University of Texas - Pan American, University Library",
++    "value": "University of Texas - Pan American, University Library"
+   },
+   {
+-    "label": "University of Texas System TeleCampus Digital Library",
+-    "value": "University of Texas System TeleCampus Digital Library"
++    "label": "University of Texas - Rio Grande Valley",
++    "value": "University of Texas - Rio Grande Valley"
+   },
+   {
+     "label": "University of Texas at Arlington Library",
+@@ -2867,10 +2843,30 @@
+     "label": "University of Texas at Tyler Library",
+     "value": "University of Texas at Tyler Library"
+   },
++  {
++    "label": "University of Texas Health Science Center at Tyler",
++    "value": "University of Texas Health Science Center at Tyler"
++  },
++  {
++    "label": "University of Texas Libraries, The University of Texas at Austin",
++    "value": "University of Texas Libraries, The University of Texas at Austin"
++  },
++  {
++    "label": "University of Texas Marine Science Library",
++    "value": "University of Texas Marine Science Library"
++  },
+   {
+     "label": "University of Texas of the Permian Basin",
+     "value": "University of Texas of the Permian Basin"
+   },
++  {
++    "label": "University of Texas Rio Grande Valley - Brownsville",
++    "value": "University of Texas Rio Grande Valley - Brownsville"
++  },
++  {
++    "label": "University of Texas System TeleCampus Digital Library",
++    "value": "University of Texas System TeleCampus Digital Library"
++  },
+   {
+     "label": "University of the Incarnate Word Library",
+     "value": "University of the Incarnate Word Library"
+@@ -2879,6 +2875,14 @@
+     "label": "University of the Ozarks, Robson Library",
+     "value": "University of the Ozarks, Robson Library"
+   },
++  {
++    "label": "US Air Force, Laughlin AFB - FL300 Base Library",
++    "value": "US Air Force, Laughlin AFB - FL300 Base Library"
++  },
++  {
++    "label": "US Air Force, Little Rock AFB, Library 4460",
++    "value": "US Air Force, Little Rock AFB, Library 4460"
++  },
+   {
+     "label": "Utah State Library",
+     "value": "Utah State Library"
+@@ -2911,6 +2915,10 @@
+     "label": "Washington State Library",
+     "value": "Washington State Library"
+   },
++  {
++    "label": "Washington University in St. Louis - University Libraries",
++    "value": "Washington University in St. Louis - University Libraries"
++  },
+   {
+     "label": "Washington University Law School Law School Library",
+     "value": "Washington University Law School Law School Library"
+@@ -2919,10 +2927,6 @@
+     "label": "Washington University Medical School Bernard Becker Medical Library",
+     "value": "Washington University Medical School Bernard Becker Medical Library"
+   },
+-  {
+-    "label": "Washington University in St. Louis - University Libraries",
+-    "value": "Washington University in St. Louis - University Libraries"
+-  },
+   {
+     "label": "Wayland Baptist University",
+     "value": "Wayland Baptist University"
+@@ -2987,6 +2991,10 @@
+     "label": "Wyoming State Library",
+     "value": "Wyoming State Library"
+   },
++  {
++    "label": "X_ExxonMobil Central Library & Information Center",
++    "value": "X_ExxonMobil Central Library & Information Center"
++  },
+   {
+     "label": "Yavapai County Free Library District",
+     "value": "Yavapai County Free Library District"
