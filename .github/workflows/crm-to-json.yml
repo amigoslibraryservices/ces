@@ -23,7 +23,7 @@ jobs:
       
       - name: Fetch CRM data and convert to JSON
         env:
-            MY_API_KEY: ${{ secrets.API_KEY }}
+            NODE_ENV: production
             DYNAMICS_TENANT_ID: ${{ secrets.TENANT_ID }}
             DYNAMICS_CLIENT_ID: ${{ secrets.CLIENT_ID }}
             DYNAMICS_CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
