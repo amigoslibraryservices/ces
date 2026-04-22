@@ -24,7 +24,7 @@ const accountTypeIds = parseIds(argv.types, [6, 8]);
 
 console.log("Fetching accounts with membership status IDs:", accountTypeIds);
 const rootDir = path.dirname(path.dirname(import.meta.url.replace('file:/', '')));
-const outputDir = path.join(rootDir, 'docs/crm');
+const outputDir = path.join(rootDir, 'docs');
 
 const accountMap = {
   "8": "mem-institutions",

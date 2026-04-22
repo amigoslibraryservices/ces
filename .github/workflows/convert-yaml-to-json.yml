@@ -1,17 +1,6 @@
 name: Convert YAML to JSON
 
 on:
-  push:
-    branches:
-      - main
-      - yml-converter
-    paths:
-      - 'input/**'
-  pull_request:
-    branches:
-      - main
-    paths:
-      - 'input/**'
   workflow_dispatch:
 
 jobs:
