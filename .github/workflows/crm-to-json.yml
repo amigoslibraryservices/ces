@@ -13,6 +13,7 @@ jobs:
       last_success_at: ${{ steps.get_time.outputs.timestamp }}
     steps:
       - name: Get last successful run timestamp
+        id: get_time
         run: |
           TIMESTAMP=$(gh run list \
             --repo ${{ github.repository }} \
