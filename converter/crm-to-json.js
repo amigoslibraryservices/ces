@@ -41,9 +41,7 @@ if (!fs.existsSync(outputDir)) {
 
 
 async function crmToJson(accountTypeId) {
-const accounts = await fetchAccountsByType(lastRun, accountTypeId);
-
-console.log("accounts returned", accounts);
+const accounts = await fetchAccountsByType(accountTypeId);
 
 const customValues = ["Amigos Library Services", "Non-member Exception"];
 
