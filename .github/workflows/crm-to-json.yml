@@ -2,7 +2,7 @@ name: Fetch CRM and store JSON
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 */6 * * *' # Runs every 6 hours
   workflow_dispatch:
 
 jobs:
