@@ -49,13 +49,13 @@ async function crmToJson(accountTypeId) {
   const jsonFileName = accountType + '.json';
   const jsonOutputPath = path.join(outputDir, jsonFileName);
 
-  // read existing entries, keyed by accountid (UUIDs contain hyphens; custom string values do not)
   const existing = fs.existsSync(jsonOutputPath)
     ? JSON.parse(fs.readFileSync(jsonOutputPath, 'utf8'))
     : [];
+  const isUUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
   const byId = Object.fromEntries(
     existing
-      .filter(e => typeof e.value === 'string' && e.value.includes('-'))
+      .filter(e => isUUID.test(e.value))
       .map(e => [e.value, e])
   );
 
