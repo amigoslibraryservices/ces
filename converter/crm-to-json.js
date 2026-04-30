@@ -6,6 +6,12 @@ import path from 'path';
 
 import minimist from "minimist";
 
+const rawDate = process.env.LAST_RUN;
+const parsedDate = new Date(rawDate);
+
+const lastRun = raw && !isNaN(parsedDate) 
+  ? parsed 
+  : new Date('2000-01-01T00:00:00Z');
 
 const argv = minimist(process.argv.slice(2));
 
@@ -40,7 +46,7 @@ if (!fs.existsSync(outputDir)) {
 
 
 async function crmToJson(accountTypeId) {
-const accounts = await fetchAccountsByType(accountTypeId);
+const accounts = await fetchAccountsByType(lastRun, accountTypeId);
 
 const customValues = ["Amigos Library Services", "Non-member Exception"];
 
