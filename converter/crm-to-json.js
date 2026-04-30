@@ -6,11 +6,10 @@ import path from 'path';
 
 import minimist from "minimist";
 
-const rawDate = process.env.LAST_RUN;
-const parsedDate = new Date(rawDate);
+const parsedDate = new Date(process.env.LAST_RUN);
 
-const lastRun = raw && !isNaN(parsedDate) 
-  ? parsed 
+const lastRun = !isNaN(parsed)
+  ? parsedDate
   : new Date('2000-01-01T00:00:00Z');
 
 const argv = minimist(process.argv.slice(2));
