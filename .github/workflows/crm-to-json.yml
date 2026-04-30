@@ -20,7 +20,15 @@ jobs:
       
       - name: Install dependencies
         run: cd converter && npm install
-      
+
+      - name: Get last successful run time
+        id: last-run
+        run: |
+          LAST_RUN=$(gh run list --workflow=crm-to-json.yml --status=success --limit=1 --json createdAt --jq '.[0].createdAt // empty')
+          echo "timestamp=${LAST_RUN}" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ github.token }}
+
       - name: Fetch CRM data and convert to JSON
         env:
             NODE_ENV: production
@@ -29,6 +37,7 @@ jobs:
             DYNAMICS_CLIENT_SECRET: ${{ secrets.DYNAMICS_CLIENT_SECRET }}
             DYNAMICS_API_VERSION: 9.2
             DYNAMICS_ORG_URL: https://amigosls.api.crm.dynamics.com
+            LAST_RUN: ${{ steps.last-run.outputs.timestamp }}
         run: cd converter && npm run crm
       
       - name: Commit and push changes

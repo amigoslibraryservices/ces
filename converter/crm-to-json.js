@@ -6,7 +6,7 @@ import path from 'path';
 
 import minimist from "minimist";
 
-const lastRun = process.env.LAST_RUN ?? '2000-01-01T00:00:00Z';
+const lastRun = process.env.LAST_RUN ?? null;
 
 const argv = minimist(process.argv.slice(2));
 
@@ -40,29 +40,41 @@ if (!fs.existsSync(outputDir)) {
 }
 
 
-async function crmToJson(accountTypeId) {
-const accounts = await fetchAccountsByType(accountTypeId);
-
 const customValues = ["Amigos Library Services", "Non-member Exception"];
 
-const jsonData = [
-  ...accounts.value.map(account => ({
-    label: account.name,
-    value: account.accountid
-  })),
-  ...customValues.map(name => ({
-    label: name,
-    value: name
-  }))
-].sort((a, b) => a.label.localeCompare(b.label));
+async function crmToJson(accountTypeId) {
+  const { updated, removed } = await fetchAccountsByType(accountTypeId, lastRun);
 
-  //Write to JSON file
   const accountType = accountMap[accountTypeId];
-  const jsonFileName =  accountType + '.json';
+  const jsonFileName = accountType + '.json';
   const jsonOutputPath = path.join(outputDir, jsonFileName);
+
+  // read existing entries, keyed by accountid (UUIDs contain hyphens; custom string values do not)
+  const existing = fs.existsSync(jsonOutputPath)
+    ? JSON.parse(fs.readFileSync(jsonOutputPath, 'utf8'))
+    : [];
+  const byId = Object.fromEntries(
+    existing
+      .filter(e => typeof e.value === 'string' && e.value.includes('-'))
+      .map(e => [e.value, e])
+  );
+
+  for (const account of updated.value) {
+    byId[account.accountid] = { label: account.name, value: account.accountid };
+  }
+  for (const account of removed.value) {
+    delete byId[account.accountid];
+  }
+
+  const jsonData = [
+    ...Object.values(byId),
+    ...customValues.map(name => ({ label: name, value: name })),
+  ].sort((a, b) => a.label.localeCompare(b.label));
+
   fs.writeFileSync(jsonOutputPath, JSON.stringify(jsonData, null, 2));
 
-  console.log(`✓ Fetched accounts and saved to ${jsonOutputPath}`);
+  const action = lastRun ? `upserted ${updated.value.length} / removed ${removed.value.length}` : `full rebuild, ${updated.value.length} accounts`;
+  console.log(`✓ ${jsonOutputPath} — ${action}`);
 }
 
 crmToJson(accountTypeIds).catch(error => {
