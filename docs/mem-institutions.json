@@ -196,19 +196,39 @@
     "value": "9fc1143d-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Austin Public Library - Cepeda Branch Library",
+    "label": "Austin Public Library - Cepeda Branch",
     "value": "d9bb4e7e-5ebd-dc11-a616-00188b347cc8"
   },
   {
-    "label": "Austin Public Library - Facility Services (J Gilllum)",
-    "value": "2b0b8a32-46c1-e511-93f8-000c29c45b72"
+    "label": "Austin Public Library - Hampton Branch at Oak Hill",
+    "value": "b0275838-4f81-f111-ab0e-6045bd0a28e6"
   },
   {
-    "label": "Austin Public Library - Milwood Branch Library",
+    "label": "Austin Public Library - Howson Branch",
+    "value": "17a4020a-5081-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - John Gillum Branch",
+    "value": "1ee4cb9e-5081-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Little Walnut Creek Branch",
+    "value": "7f47f1f8-5081-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Menchaca Road Branch",
+    "value": "e5d83d70-5181-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Milwood Branch",
     "value": "f86fa79c-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Austin Public Library - Pleasant Hill Library",
+    "label": "Austin Public Library - Old Quarry Branch",
+    "value": "08f514fb-5881-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Pleasant Hill Branch",
     "value": "7c593416-4949-e611-9401-000c29c45b72"
   },
   {
@@ -216,11 +236,15 @@
     "value": "46e1e1b5-58aa-ea11-9491-000c29c45b72"
   },
   {
-    "label": "Austin Public Library - Ruiz Branch Library",
-    "value": "fc6fa79c-b516-dc11-8cce-001143d33550"
+    "label": "Austin Public Library - Southeast Branch",
+    "value": "58e31046-5981-f111-ab0e-6045bd0a28e6"
   },
   {
-    "label": "Austin Public Library - St. John Branch Library",
+    "label": "Austin Public Library - Spicewood Springs Branch",
+    "value": "1fb2b084-5981-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - St. John Branch",
     "value": "0170a79c-b516-dc11-8cce-001143d33550"
   },
   {
@@ -228,8 +252,24 @@
     "value": "95fc1feb-1805-df11-b575-00188b347cc8"
   },
   {
-    "label": "Austin Public Library - Windsor Park Branch Library",
+    "label": "Austin Public Library - Twin Oaks Branch",
+    "value": "0567f15d-5c81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - University Hills Branch",
+    "value": "44619a97-5c81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Willie Mae Kirk Branch",
+    "value": "4e2152d1-5c81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Windsor Park Branch",
     "value": "eb6fa79c-b516-dc11-8cce-001143d33550"
+  },
+  {
+    "label": "Austin Public Library - Yarborough Branch",
+    "value": "a03bba0f-5d81-f111-ab0e-6045bd0a28e6"
   },
   {
     "label": "Azle Memorial Library",
@@ -762,6 +802,10 @@
   {
     "label": "Dine College Library - Shiprock",
     "value": "516fe366-b516-dc11-8cce-001143d33550"
+  },
+  {
+    "label": "Dominican University Rebecca Crown Library",
+    "value": "f62ceb60-b516-dc11-8cce-001143d33550"
   },
   {
     "label": "Dona Ana Community College",
