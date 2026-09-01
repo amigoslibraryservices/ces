@@ -216,23 +216,43 @@
     "value": "f36fa79c-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Austin Public Library - Cepeda Branch Library",
-    "value": "d9bb4e7e-5ebd-dc11-a616-00188b347cc8"
-  },
-  {
-    "label": "Austin Public Library - Facility Services (J Gilllum)",
-    "value": "2b0b8a32-46c1-e511-93f8-000c29c45b72"
-  },
-  {
-    "label": "Austin Public Library - Faulk Central Library",
+    "label": "Austin Public Library - Central Library",
     "value": "9fc1143d-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Austin Public Library - Milwood Branch Library",
+    "label": "Austin Public Library - Cepeda Branch",
+    "value": "d9bb4e7e-5ebd-dc11-a616-00188b347cc8"
+  },
+  {
+    "label": "Austin Public Library - Hampton Branch at Oak Hill",
+    "value": "b0275838-4f81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Howson Branch",
+    "value": "17a4020a-5081-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - John Gillum Branch",
+    "value": "1ee4cb9e-5081-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Little Walnut Creek Branch",
+    "value": "7f47f1f8-5081-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Menchaca Road Branch",
+    "value": "e5d83d70-5181-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Milwood Branch",
     "value": "f86fa79c-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Austin Public Library - Pleasant Hill Library",
+    "label": "Austin Public Library - Old Quarry Branch",
+    "value": "08f514fb-5881-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Pleasant Hill Branch",
     "value": "7c593416-4949-e611-9401-000c29c45b72"
   },
   {
@@ -240,11 +260,15 @@
     "value": "46e1e1b5-58aa-ea11-9491-000c29c45b72"
   },
   {
-    "label": "Austin Public Library - Ruiz Branch Library",
-    "value": "fc6fa79c-b516-dc11-8cce-001143d33550"
+    "label": "Austin Public Library - Southeast Branch",
+    "value": "58e31046-5981-f111-ab0e-6045bd0a28e6"
   },
   {
-    "label": "Austin Public Library - St. John Branch Library",
+    "label": "Austin Public Library - Spicewood Springs Branch",
+    "value": "1fb2b084-5981-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - St. John Branch",
     "value": "0170a79c-b516-dc11-8cce-001143d33550"
   },
   {
@@ -252,12 +276,24 @@
     "value": "95fc1feb-1805-df11-b575-00188b347cc8"
   },
   {
-    "label": "Austin Public Library - Windsor Park Branch Library",
+    "label": "Austin Public Library - Twin Oaks Branch",
+    "value": "0567f15d-5c81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - University Hills Branch",
+    "value": "44619a97-5c81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Willie Mae Kirk Branch",
+    "value": "4e2152d1-5c81-f111-ab0e-6045bd0a28e6"
+  },
+  {
+    "label": "Austin Public Library - Windsor Park Branch",
     "value": "eb6fa79c-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Avila University, Hooley-Bundschu Library",
-    "value": "d6ce98f7-39a0-e111-a369-000c29d12e92"
+    "label": "Austin Public Library - Yarborough Branch",
+    "value": "a03bba0f-5d81-f111-ab0e-6045bd0a28e6"
   },
   {
     "label": "Azle Memorial Library",
@@ -528,7 +564,7 @@
     "value": "9629af96-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Central Christian College of the Bible",
+    "label": "Central Bible University",
     "value": "34d098f7-39a0-e111-a369-000c29d12e92"
   },
   {
@@ -852,6 +888,10 @@
     "value": "516fe366-b516-dc11-8cce-001143d33550"
   },
   {
+    "label": "Dominican University Rebecca Crown Library",
+    "value": "f62ceb60-b516-dc11-8cce-001143d33550"
+  },
+  {
     "label": "Dona Ana Community College",
     "value": "d32ceb60-b516-dc11-8cce-001143d33550"
   },
@@ -974,10 +1014,6 @@
   {
     "label": "Euless Public Library",
     "value": "f5c2143d-b516-dc11-8cce-001143d33550"
-  },
-  {
-    "label": "Evanston Township High School Library",
-    "value": "931291fd-39a0-e111-a369-000c29d12e92"
   },
   {
     "label": "ExxonMobil Central Library & Information Center",
@@ -1136,10 +1172,6 @@
     "value": "44cf98f7-39a0-e111-a369-000c29d12e92"
   },
   {
-    "label": "Grand Canyon National Park Library",
-    "value": "c68f292b-b516-dc11-8cce-001143d33550"
-  },
-  {
     "label": "Grand Canyon University",
     "value": "ae8f292b-b516-dc11-8cce-001143d33550"
   },
@@ -1162,6 +1194,10 @@
   {
     "label": "Grundy County–Jewett Norris Library",
     "value": "52d098f7-39a0-e111-a369-000c29d12e92"
+  },
+  {
+    "label": "Guymon Public Library & Arts Center",
+    "value": "6e120a49-b516-dc11-8cce-001143d33550"
   },
   {
     "label": "Haltom City Public Library",
@@ -1808,10 +1844,6 @@
     "value": "44d098f7-39a0-e111-a369-000c29d12e92"
   },
   {
-    "label": "MidAmerica Nazarene University Library",
-    "value": "811391fd-39a0-e111-a369-000c29d12e92"
-  },
-  {
     "label": "Midland College Library",
     "value": "df56024f-b516-dc11-8cce-001143d33550"
   },
@@ -1886,10 +1918,6 @@
   {
     "label": "Missouri Valley College, Murrell Memorial Library",
     "value": "7ccf98f7-39a0-e111-a369-000c29d12e92"
-  },
-  {
-    "label": "Mohave College Libraries",
-    "value": "9528eb60-b516-dc11-8cce-001143d33550"
   },
   {
     "label": "Mokena Community Public Library District",
@@ -2080,11 +2108,7 @@
     "value": "4f41cc78-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Northern Arizona University Library",
-    "value": "2b41cc78-b516-dc11-8cce-001143d33550"
-  },
-  {
-    "label": "Northwest Arkansas Community College Library",
+    "label": "NorthWest Arkansas Community College Library",
     "value": "99f2c384-b516-dc11-8cce-001143d33550"
   },
   {
@@ -2114,10 +2138,6 @@
   {
     "label": "Oblate School of Theology Library",
     "value": "314cc97e-b516-dc11-8cce-001143d33550"
-  },
-  {
-    "label": "Oglethorpe University Philip Weltner Library",
-    "value": "c14cc97e-b516-dc11-8cce-001143d33550"
   },
   {
     "label": "Oklahoma Baptist University",
@@ -2432,6 +2452,10 @@
     "value": "ad1191fd-39a0-e111-a369-000c29d12e92"
   },
   {
+    "label": "Salt Lake County Library - Whitmore",
+    "value": "2267e0e5-d33e-ea11-9478-000c29c45b72"
+  },
+  {
     "label": "Salt Lake County Library Services",
     "value": "4d3963d2-d873-e611-9401-000c29c45b72"
   },
@@ -2674,10 +2698,6 @@
   {
     "label": "Springtown Public Library",
     "value": "2ef4c384-b516-dc11-8cce-001143d33550"
-  },
-  {
-    "label": "St. Charles Public Library District",
-    "value": "571291fd-39a0-e111-a369-000c29d12e92"
   },
   {
     "label": "St. Clair County Library",
