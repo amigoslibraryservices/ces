@@ -43,7 +43,7 @@ if (!fs.existsSync(outputDir)) {
 async function crmToJson(accountTypeId) {
 const accounts = await fetchAccountsByType(accountTypeId);
 
-const customValues = ["Amigos Library Services", "Non-member Exception"];
+const customValues = ["Amigos Library Services (Employee Use Only)", "Non-member Exception"];
 
 const jsonData = [
   ...accounts.value.map(account => ({
