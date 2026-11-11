@@ -1996,10 +1996,6 @@
     "value": "134cc97e-b516-dc11-8cce-001143d33550"
   },
   {
-    "label": "Rich Mountain Community College",
-    "value": "074cc97e-b516-dc11-8cce-001143d33550"
-  },
-  {
     "label": "Riverside Regional Library",
     "value": "4ece98f7-39a0-e111-a369-000c29d12e92"
   },
@@ -2666,6 +2662,10 @@
   {
     "label": "University of Arkansas for Medical Sciences Library",
     "value": "6a41cc78-b516-dc11-8cce-001143d33550"
+  },
+  {
+    "label": "University of Arkansas Rich Mountain",
+    "value": "074cc97e-b516-dc11-8cce-001143d33550"
   },
   {
     "label": "University of Central Arkansas, Torreyson Library",
